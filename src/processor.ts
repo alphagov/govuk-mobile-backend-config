@@ -61,7 +61,7 @@ export class ValidateOperation extends Operation<VersionDocumentParams> {
   }
 
   run(): void {
-    const versionDocument = this.fileHandler.loadYaml(this.params.filename);
+    const versionDocument = this.fileHandler.loadDocument(this.params.filename);
     const versionString = this.fileHandler.extractVersionFromFilename(this.params.filename);
     const result = this.cvdValidator.validate({
       versionString,
@@ -85,7 +85,7 @@ export class GenerateOperation extends Operation<VersionDocumentParams> {
   }
 
   run(): void {
-    const versionDocument = this.fileHandler.loadYaml(this.params.filename);
+    const versionDocument = this.fileHandler.loadDocument(this.params.filename);
     const output = this.transformer.transform(versionDocument);
     console.log(JSON.stringify(output, null, 2));
   }

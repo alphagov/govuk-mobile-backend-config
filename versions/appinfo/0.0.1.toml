@@ -1,0 +1,31 @@
+[metadata]
+configVersion = "0.0.1"
+
+[environments]
+bananas = { }
+
+[environments.default.android]
+platform = "Android"
+available = true
+minimumVersion = "1.0.0"
+recommendedVersion = "1.2.0"
+releaseFlags = {
+  featureOne = true
+  featureTwo = false
+}
+
+[environments.default.ios]
+platform = "iOS"
+available = true
+minimumVersion = "2.0.1"
+recommendedVersion = "2.2.0"
+someOtherProperty = "fish chips beans"
+releaseFlags = {
+  featureOne = true
+  featureTwo = true
+}
+
+[environments.production.android]
+releaseFlags = {
+  featureOne = false
+}

@@ -31,7 +31,7 @@ describe('ValidateOperation', () => {
 
   it('completes without error when config is valid', () => {
     when(fileHandler.extractVersionFromFilename(dummyFilename)).thenReturn('0.1.2');
-    when(fileHandler.loadYaml(dummyFilename)).thenReturn(ConfigVersionDocument.VALID);
+    when(fileHandler.loadDocument(dummyFilename)).thenReturn(ConfigVersionDocument.VALID);
     when(cvdValidator.validate(anything())).thenReturn(new ValidationResult());
     op.run();
     verify(cvdValidator.validate(anything())).once();
@@ -41,7 +41,7 @@ describe('ValidateOperation', () => {
     const invalidConfigResult = new ValidationResult();
     invalidConfigResult.putError('config is actually a banana');
     when(fileHandler.extractVersionFromFilename(dummyFilename)).thenReturn('0.1.2');
-    when(fileHandler.loadYaml(dummyFilename)).thenReturn(ConfigVersionDocument.VALID);
+    when(fileHandler.loadDocument(dummyFilename)).thenReturn(ConfigVersionDocument.VALID);
     when(cvdValidator.validate(anything())).thenReturn(invalidConfigResult);
     expect(() => {
       op.run();
@@ -64,7 +64,7 @@ describe('GenerateOperation', () => {
   });
 
   it('calls transform with the correct object', () => {
-    when(fileHandler.loadYaml(dummyFilename)).thenReturn(ConfigVersionDocument.VALID);
+    when(fileHandler.loadDocument(dummyFilename)).thenReturn(ConfigVersionDocument.VALID);
     when(transformer.transform(ConfigVersionDocument.VALID)).thenReturn({});
     op.run();
     verify(transformer.transform(ConfigVersionDocument.VALID)).once();
