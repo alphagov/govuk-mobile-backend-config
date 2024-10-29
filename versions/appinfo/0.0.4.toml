@@ -1,0 +1,33 @@
+[metadata]
+configVersion = "0.0.4"
+
+[environments]
+staging = { }
+integration = { }
+
+[environments.default.android]
+platform = "Android"
+available = true
+minimumVersion = "0.0.1"
+recommendedVersion = "0.0.1"
+releaseFlags = {
+    onboarding = true
+    search = true
+    topics = true
+    recentActivity = true
+}
+
+[environments.default.ios]
+platform = "iOS"
+available = true
+minimumVersion = "0.0.1"
+recommendedVersion = "0.0.1"
+releaseFlags = {
+    onboarding = true
+    search = true
+    topics = true
+    recentActivity = true
+}
+
+[environments.production.ios]
+available = false
