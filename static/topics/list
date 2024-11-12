@@ -1,5 +1,10 @@
 [
     {
+        "ref": "benefits",
+        "title": "Benefits",
+        "description": "Claiming benefits, managing your benefits"
+    },
+    {
         "ref": "business",
         "title": "Business",
         "description": "Starting a business, becoming self-employed, running a business"
