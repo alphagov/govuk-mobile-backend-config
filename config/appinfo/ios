@@ -1,0 +1,18 @@
+{
+    "platform": "iOS",
+    "config": {
+        "available": true,
+        "minimumVersion": "0.0.1",
+        "recommendedVersion": "0.0.1",
+        "searchApiUrl": "https://search.publishing.service.gov.uk/v0_1/search.json",
+        "releaseFlags": {
+            "onboarding": true,
+            "search": true,
+            "topics": true,
+            "recentActivity": true
+        },
+        "version": "0.0.6",
+        "lastUpdated": "2024-10-31T15:06:55.675Z"
+    },
+    "signature": "MEYCIQDBkYhyXRr5Cd726RRzZJb7xZJhKO6EIpqKDjJPIlUUdAIhAMQyRGFQ7X+ZetwnGkyK/kePFTgz4kXVudVISDLIvXO4"
+}
