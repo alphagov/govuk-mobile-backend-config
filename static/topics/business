@@ -109,13 +109,6 @@
             "popular": true
         },
         {
-            "url": "https://www.gov.uk/self-assessment-tax-returns",
-            "title": "Self Assessment tax returns",
-            "description": "Self Assessment tax returns - deadlines, who must send a tax return, penalties, corrections and returns for someone who has died.",
-            "isStepByStep": false,
-            "popular": false
-        },
-        {
             "url": "https://www.gov.uk/file-your-confirmation-statement-with-companies-house",
             "title": "File your confirmation statement (annual return) with Companies House",
             "description": "How to file company information - including directors, registered office and shareholders in your confirmation statement (previously AR01 annual return) \r\n",
