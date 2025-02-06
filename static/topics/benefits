@@ -76,14 +76,14 @@
         {
             "url": "https://www.gov.uk/get-tax-free-childcare",
             "title": "Get Tax-Free Childcare",
-            "description": "Check if you're eligible for Tax-Free Childcare, how to apply and how to pay your childcare provider.",
+            "description": "Check if you’re eligible for Tax-Free Childcare, how to apply and how to pay your childcare provider.",
             "isStepByStep": true,
             "popular": false
         },
         {
             "url": "https://www.gov.uk/get-free-childcare-if-youre-working",
             "title": "Get free childcare if you're working",
-            "description": "How to apply and get a code for free childcare for your child aged 9 months to 4-years old if you're working.",
+            "description": "How to apply and get a code for free childcare for your child aged 9 months to 4-years old if you’re working.",
             "isStepByStep": true,
             "popular": false
         },
