@@ -1,6 +1,6 @@
 {
     "ref": "student-finance",
-    "title": "Student-finance for higher education",
+    "title": "Student finance for higher education",
     "subtopics": [
         {
             "ref": "apply-student-finance",
@@ -12,7 +12,7 @@
         },
         {
             "ref": "student-funding-if-eligible",
-            "title": "Student funding if you're eligible"
+            "title": "Extra funding for eligible students"
         }
     ],
     "content": []
