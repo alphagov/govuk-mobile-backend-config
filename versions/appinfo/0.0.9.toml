@@ -1,0 +1,36 @@
+[metadata]
+configVersion = "0.0.9"
+
+[environments]
+production = { }
+integration = { }
+
+[environments.default.android]
+platform = "Android"
+available = true
+minimumVersion = "0.0.1"
+recommendedVersion = "0.0.1"
+searchApiUrl = "https://search.publishing.service.gov.uk/v0_1/search.json"
+authenticationIssuerBaseUrl = "https://cognito-idp.eu-west-2.amazonaws.com/eu-west-2_fIJ6F25Zh"
+releaseFlags = {
+    onboarding = true
+    search = true
+    topics = true
+    recentActivity = true
+    localServices = true
+}
+
+[environments.default.ios]
+platform = "iOS"
+available = true
+minimumVersion = "0.0.1"
+recommendedVersion = "0.0.1"
+searchApiUrl = "https://search.publishing.service.gov.uk/v0_1/search.json"
+authenticationIssuerBaseUrl = "https://cognito-idp.eu-west-2.amazonaws.com/eu-west-2_fIJ6F25Zh"
+releaseFlags = {
+    onboarding = true
+    search = true
+    topics = true
+    recentActivity = true
+    localServices = true
+}
