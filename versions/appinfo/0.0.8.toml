@@ -4,35 +4,35 @@ configVersion = "0.0.8"
 [environments.production.ios]
 releaseFlags = {
   onboarding = true
-    search = true
-    topics = true
-    recentActivity = true
+  search = true
+  topics = true
+  recentActivity = true
 }
 
 [environments.production.android]
 releaseFlags = {
   onboarding = true
-    search = true
-    topics = true
-    recentActivity = true
+  search = true
+  topics = true
+  recentActivity = true
 }
 
 [environments.integration.ios]
 releaseFlags = {
   onboarding = true
-    search = true
-    topics = true
-    recentActivity = true
-    localServices = true
+  search = true
+  topics = true
+  recentActivity = true
+  localServices = true
 }
 
 [environments.integration.android]
 releaseFlags = {
   onboarding = true
-    search = true
-    topics = true
-    recentActivity = true
-    localServices = true
+  search = true
+  topics = true
+  recentActivity = true
+  localServices = true
 }
 
 [environments.default.android]
