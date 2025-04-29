@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 env:
   BUCKET_NAME: govuk-app-remote-config-integration
