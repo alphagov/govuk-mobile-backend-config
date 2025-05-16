@@ -1,0 +1,48 @@
+[metadata]
+configVersion = "0.0.9"
+
+[environments.production.ios]
+releaseFlags = {
+  onboarding = true
+  search = true
+  topics = true
+  recentActivity = true
+}
+
+[environments.production.android]
+releaseFlags = {
+  onboarding = true
+  search = true
+  topics = true
+  recentActivity = true
+}
+
+[environments.integration.ios]
+releaseFlags = {
+  onboarding = true
+  search = true
+  topics = true
+  recentActivity = true
+}
+
+[environments.integration.android]
+releaseFlags = {
+  onboarding = true
+  search = true
+  topics = true
+  recentActivity = true
+}
+
+[environments.default.android]
+platform = "Android"
+available = true
+minimumVersion = "0.0.1"
+recommendedVersion = "0.0.1"
+searchApiUrl = "https://search.publishing.service.gov.uk/v0_1/search.json"
+
+[environments.default.ios]
+platform = "iOS"
+available = true
+minimumVersion = "0.0.1"
+recommendedVersion = "0.0.1"
+searchApiUrl = "https://search.publishing.service.gov.uk/v0_1/search.json"
