@@ -1,0 +1,77 @@
+{
+    "ref": "armed-forces",
+    "title": "Armed forces",
+    "subtopics": [],
+    "content": [
+        {
+            "url": "http://www.gov.uk/veteran-card",
+            "title": "Apply for an HM Armed Forces Veteran Card",
+            "description": null,
+            "isStepByStep": false,
+            "popular": true
+        },
+        {
+            "url": "http://www.gov.uk/get-copy-military-records-of-service",
+            "title": "Get a copy of military records of service",
+            "description": null,
+            "isStepByStep": false,
+            "popular": true
+        },
+        {
+            "url": "http://www.gov.uk/armed-forces-pension-calculator",
+            "title": "Estimate your armed forces pension",
+            "description": null,
+            "isStepByStep": false,
+            "popular": true
+        },
+        {
+            "url": "http://www.gov.uk/apply-medal-or-veterans-badge",
+            "title": "Apply for or replace a medal or veterans badge",
+            "description": null,
+            "isStepByStep": false,
+            "popular": true
+        },
+        {
+            "url": "http://www.gov.uk/financial-help-disabled",
+            "title": "Financial help if you're disabled",
+            "description": null,
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
+            "url": "http://www.gov.uk/bfpo",
+            "title": "Send mail with the British Forces Post Office (BFPO)",
+            "description": null,
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
+            "url": "http://www.gov.uk/claim-for-injury-received-while-serving",
+            "title": "Claim if you were injured while serving in the armed forces",
+            "description": null,
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
+            "url": "http://www.gov.uk/employee-reservist",
+            "title": "Rights and responsibilities for reservists and employers",
+            "description": null,
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
+            "url": "http://www.gov.uk/war-widow-pension",
+            "title": "War Widow(er) Pension",
+            "description": null,
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
+            "url": "http://www.gov.uk/search-armed-forces-memorial-roll-of-honour",
+            "title": "Search the Armed Forces Memorial roll of honour",
+            "description": null,
+            "isStepByStep": false,
+            "popular": false
+        }
+    ]
+}

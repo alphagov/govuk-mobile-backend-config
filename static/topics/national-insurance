@@ -102,6 +102,13 @@
             "description": "Find out if you need to pay National Insurance in the UK or in the country you are visiting when you work abroad.",
             "isStepByStep": false,
             "popular": false
+        },
+        {
+            "url": "https://www.gov.uk/guidance/get-your-national-insurance-number-by-post",
+            "title": "Get your National Insurance number by post",
+            "description": "Find out if you need to pay National Insurance in the UK or in the country you are visiting when you work abroad.",
+            "isStepByStep": false,
+            "popular": false
         }
     ]
 }

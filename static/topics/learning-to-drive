@@ -46,13 +46,6 @@
             "popular": true
         },
         {
-            "url": "https://www.gov.uk/book-pupil-driving-test",
-            "title": "Book and manage driving and riding tests for your pupils",
-            "description": "Book driving and motorcycle tests for your pupils, check details, change, swap or cancel tests, and manage your availability for car driving tests.",
-            "isStepByStep": false,
-            "popular": false
-        },
-        {
             "url": "https://www.gov.uk/theory-test",
             "title": "Theory test: cars",
             "description": "When to book your car theory test, what to take with you, what happens at the test centre, how the multiple-choice questions and hazard perception test work, and the pass mark.",

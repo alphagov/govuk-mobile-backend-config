@@ -24,7 +24,7 @@
             "title": "School admissions",
             "description": "Get a place for your child at a primary or secondary school - applications, deadlines, admission criteria, appeals and complaints.",
             "isStepByStep": false,
-            "popular": false
+            "popular": true
         },
         {
             "url": "https://www.gov.uk/school-performance-tables",
@@ -80,7 +80,7 @@
             "title": "School attendance and absence",
             "description": "You can be prosecuted if your child has unauthorised absence from school - truancy, help with getting your child to school, and legal action to enforce school attendance",
             "isStepByStep": false,
-            "popular": true
+            "popular": false
         },
         {
             "url": "https://www.gov.uk/national-curriculum",

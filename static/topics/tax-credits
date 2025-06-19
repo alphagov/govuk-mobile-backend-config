@@ -4,23 +4,9 @@
     "subtopics": [],
     "content": [
         {
-            "url": "https://www.gov.uk/child-tax-credit",
-            "title": "Child Tax Credit",
+            "url": "https://www.gov.uk/tax-credits-have-ended",
+            "title": "Tax credits ended on 5 April 2025",
             "description": "Child Tax Credits if you're responsible for one child or more - how much you get, eligibility, claim tax credits",
-            "isStepByStep": false,
-            "popular": true
-        },
-        {
-            "url": "https://www.gov.uk/working-tax-credit",
-            "title": "Working Tax Credit",
-            "description": "Working Tax Credit - how much money you get, hours you need to work, eligibility, claim, tax credits when you stop work or go on leave ",
-            "isStepByStep": false,
-            "popular": true
-        },
-        {
-            "url": "https://www.gov.uk/update-tax-credits",
-            "title": "How to update your tax credit claim",
-            "description": "How to start a tax credits claim, when to claim, joint claims, backdate a claim",
             "isStepByStep": false,
             "popular": true
         },
@@ -28,20 +14,6 @@
             "url": "https://www.gov.uk/check-benefits-financial-support",
             "title": "Check benefits and financial support you can get",
             "description": "Find out what benefits and financial support you may be able to get.",
-            "isStepByStep": false,
-            "popular": false
-        },
-        {
-            "url": "https://www.gov.uk/manage-your-tax-credits",
-            "title": "Manage your tax credits",
-            "description": "Update your details, find out how much you’ll get paid and tell HMRC about a change in your circumstances  ",
-            "isStepByStep": false,
-            "popular": true
-        },
-        {
-            "url": "https://www.gov.uk/renewing-your-tax-credits-claim",
-            "title": "How to renew tax credits",
-            "description": "How to renew your tax credits claim, including the application deadline, renewal pack and how long it takes",
             "isStepByStep": false,
             "popular": false
         },
@@ -67,44 +39,9 @@
             "popular": false
         },
         {
-            "url": "https://www.gov.uk/when-is-your-next-tax-credits-payment",
-            "title": "Tax credits: your payment dates",
-            "description": "Your tax credit payments - find out when they're due and early payment dates for bank holidays",
-            "isStepByStep": false,
-            "popular": false
-        },
-        {
-            "url": "https://www.gov.uk/tax-credits-if-you-have-baby",
-            "title": "Tax credits if you have a baby",
-            "description": "Tax credits when you have a baby - what money you can get, how and when to apply for tax credits",
-            "isStepByStep": false,
-            "popular": false
-        },
-        {
-            "url": "https://www.gov.uk/child-tax-credit-when-child-reaches-16",
-            "title": "Child Tax Credit when your child reaches 16",
-            "description": "Tax credits for children aged 16 or over - approved education, approved training and when Child Tax Credit stops or continues.",
-            "isStepByStep": false,
-            "popular": false
-        },
-        {
-            "url": "https://www.gov.uk/childcare-costs-for-tax-credits",
-            "title": "Tax credits: work out your childcare costs",
-            "description": "Work out your eligible weekly childcare costs, when to report a change in costs",
-            "isStepByStep": false,
-            "popular": false
-        },
-        {
             "url": "https://www.gov.uk/tax-credits-appeals-complaints",
             "title": "Tax credits: appeals and complaints",
             "description": "Tax credits - appeals, appeal form, how to make a complaint. ",
-            "isStepByStep": false,
-            "popular": false
-        },
-        {
-            "url": "https://www.gov.uk/help-with-childcare-costs/free-childcare-2-year-olds-claim-benefits",
-            "title": "Free education and childcare for 2-year-olds if you claim certain benefits",
-            "description": "Help with the cost of paying for approved childcare - Tax-Free Childcare, 15 and 30 hours childcare, childcare vouchers, tax credits, Learner Support.",
             "isStepByStep": false,
             "popular": false
         }

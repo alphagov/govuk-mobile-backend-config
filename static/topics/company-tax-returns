@@ -35,6 +35,20 @@
             "description": "How to file your company annual accounts with Companies House",
             "isStepByStep": false,
             "popular": false
+        },
+        {
+            "url": "https://www.gov.uk/guidance/verifying-your-identity-for-companies-house",
+            "title": "Verifying your identity for Companies House",
+            "description": null,
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
+            "url": "https://www.gov.uk/dormant-company",
+            "title": "Dormant companies and associations",
+            "description": "What it means to be dormant for Corporation Tax or Companies House - trading and non-trading, annual accounts, Company Tax Returns and telling HM Revenue and Customs (HMRC)",
+            "isStepByStep": false,
+            "popular": false
         }
     ]
 }

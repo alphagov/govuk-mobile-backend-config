@@ -27,10 +27,10 @@
             "popular": false
         },
         {
-            "url": "https://www.gov.uk/get-free-childcare-if-youre-working",
+            "url": "https://www.gov.uk/free-childcare-if-working",
             "title": "Get free childcare if you're working",
-            "description": "How to apply and get a code for free childcare for your child aged 9 months to 4-years old if you’re working.\r\n",
-            "isStepByStep": true,
+            "description": "Get free childcare if you're working\r\n",
+            "isStepByStep": false,
             "popular": false
         },
         {

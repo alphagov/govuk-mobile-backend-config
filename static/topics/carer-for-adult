@@ -76,8 +76,8 @@
             "popular": true
         },
         {
-            "url": "https://www.gov.uk/universal-credit",
-            "title": "Universal Credit",
+            "url": "https://www.gov.uk/universal-credit/what-youll-get",
+            "title": "Universal Credit: What you'll get",
             "description": "Universal Credit is replacing 6 other benefits with a single monthly payment if you're out of work or on a low income - eligibility, how to prepare.",
             "isStepByStep": false,
             "popular": true

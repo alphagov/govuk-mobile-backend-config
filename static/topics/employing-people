@@ -18,13 +18,6 @@
             "popular": false
         },
         {
-            "url": "https://www.gov.uk/employing-staff",
-            "title": "Employing staff for the first time",
-            "description": "The main things you need to consider when employing people for the first time or if you've never hired an employee before",
-            "isStepByStep": false,
-            "popular": false
-        },
-        {
             "url": "https://www.gov.uk/paye-for-employers",
             "title": "PAYE and payroll for employers",
             "description": "What new employers need to do for PAYE, including choosing whether to run payroll yourself, paying someone for the first time and keeping records.",
@@ -86,6 +79,20 @@
             "description": "As an employer, you might need to report any expenses or benefits you provide to employees - tax and National Insurance (NI) payments",
             "isStepByStep": false,
             "popular": true
+        },
+        {
+            "url": "http://www.gov.uk/running-payroll",
+            "title": "Running payroll",
+            "description": null,
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
+            "url": "http://www.gov.uk/guidance/work-out-an-employees-income-tax",
+            "title": "Work out an employee's Income Tax",
+            "description": null,
+            "isStepByStep": false,
+            "popular": false
         }
     ]
 }

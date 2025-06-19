@@ -99,6 +99,13 @@
             "description": "Complain about a further education college, business providing apprenticeships or other adult education institution - complaints process, when to complain to the Education and Skills Funding Agency (ESFA)",
             "isStepByStep": false,
             "popular": false
+        },
+        {
+            "url": "https://www.gov.uk/music-dance-scheme",
+            "title": "Music and Dance Scheme: funding for students",
+            "description": "Financial help with sending your child to a specialist school for young musicians and dancers",
+            "isStepByStep": false,
+            "popular": false
         }
     ]
 }

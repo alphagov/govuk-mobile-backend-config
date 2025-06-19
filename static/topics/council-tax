@@ -1,0 +1,70 @@
+{
+    "ref": "council-tax",
+    "title": "Council Tax",
+    "subtopics": [],
+    "content": [
+        {
+            "url": "http://www.gov.uk/council-tax",
+            "title": "How Council Tax works",
+            "description": null,
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
+            "url": "http://www.gov.uk/council-tax-bands",
+            "title": "Check your Council Tax band",
+            "description": null,
+            "isStepByStep": false,
+            "popular": true
+        },
+        {
+            "url": "http://www.gov.uk/challenge-council-tax-band",
+            "title": "Challenge your Council Tax band",
+            "description": null,
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
+            "url": "http://www.gov.uk/pay-council-tax",
+            "title": "Pay your Council Tax",
+            "description": null,
+            "isStepByStep": false,
+            "popular": true
+        },
+        {
+            "url": "http://www.gov.uk/council-tax-arrears",
+            "title": "Pay Council Tax arrears",
+            "description": null,
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
+            "url": "http://www.gov.uk/council-tax-appeals",
+            "title": "Appeal a Council Tax bill or fine",
+            "description": null,
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
+            "url": "http://www.gov.uk/apply-council-tax-reduction",
+            "title": "Apply for Council Tax Reduction",
+            "description": null,
+            "isStepByStep": false,
+            "popular": true
+        },
+        {
+            "url": "http://www.gov.uk/apply-for-council-tax-discount",
+            "title": "Apply for a Council Tax discount",
+            "description": null,
+            "isStepByStep": false,
+            "popular": true
+        },
+        {
+            "url": "http://www.gov.uk/contact-voa",
+            "title": "Contact VOA",
+            "description": null,
+            "isStepByStep": false,
+            "popular": false
+        }
+    ]
+}

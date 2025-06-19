@@ -39,6 +39,13 @@
             "popular": false
         },
         {
+            "url": "http://www.gov.uk/contact-student-loans-company",
+            "title": "Contact the Student Loans Company",
+            "description": null,
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
             "url": "https://www.gov.uk/student-finance-if-you-suspend-or-leave",
             "title": "Student finance if you suspend or leave your course",
             "description": "You must stop your student finance when you suspend or leave your course early - find out when and how to repay your Maintenance Loan, including overpayments. \r\n\r\n",

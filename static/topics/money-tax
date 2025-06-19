@@ -32,6 +32,10 @@
             "title": "Inheritance Tax"
         },
         {
+            "ref": "council-tax",
+            "title": "Council Tax"
+        },
+        {
             "ref": "vat",
             "title": "VAT"
         },

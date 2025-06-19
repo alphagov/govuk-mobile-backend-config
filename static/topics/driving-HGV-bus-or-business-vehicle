@@ -4,20 +4,6 @@
     "subtopics": [],
     "content": [
         {
-            "url": "https://www.gov.uk/mot-lorry-bus-trailer",
-            "title": "Get an annual test (MOT) for a lorry, bus or trailer",
-            "description": "Check how to get an annual test (MOT) for a heavy goods vehicle (HGV) or public service vehicle (PSV) - how to book the test, prepare the vehicle and documents and the test result.",
-            "isStepByStep": true,
-            "popular": false
-        },
-        {
-            "url": "https://www.gov.uk/transport-goods-from-uk-by-road",
-            "title": "Transport goods out of the UK by road",
-            "description": "How to transport goods out of the UK by road - vehicle operator licences and permits, driver documents and road haulage rules.",
-            "isStepByStep": true,
-            "popular": false
-        },
-        {
             "url": "https://www.gov.uk/check-your-driver-cpc-periodic-training-hours",
             "title": "Check your Driver CPC periodic training hours",
             "description": "Check how many hours of Driver CPC periodic training you’ve done and which courses you’ve attended.",
