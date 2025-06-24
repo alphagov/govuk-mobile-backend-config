@@ -1,0 +1,62 @@
+[metadata]
+configVersion = "0.0.11"
+
+[environments.production.ios]
+releaseFlags = {
+  localServices = true
+  notifications = true
+  onboarding = true
+  recentActivity = true
+  search = true
+  topics = true
+}
+
+[environments.production.android]
+releaseFlags = {
+  localServices = true
+  notifications = true
+  onboarding = true
+  recentActivity = true
+  search = true
+  topics = true
+}
+
+[environments.integration.ios]
+releaseFlags = {
+  localServices = true
+  notifications = true
+  onboarding = true
+  recentActivity = true
+  search = true
+  topics = true
+}
+
+[environments.integration.android]
+releaseFlags = {
+  localServices = true
+  notifications = true
+  onboarding = true
+  recentActivity = true
+  search = true
+  topics = true
+}
+
+[environments.default.android]
+platform = "Android"
+available = true
+minimumVersion = "0.0.1"
+recommendedVersion = "0.0.1"
+searchApiUrl = "https://search.publishing.service.gov.uk/v0_1/search.json"
+authenticationIssuerBaseUrl = "https://govukapp-integration.auth.eu-west-2.amazoncognito.com"
+authenticationIssuerClientId = "35vb4qv5kigloongjg4snabius"
+authenticationTokenBaseUrl = "https://g0s70cfqng.execute-api.eu-west-2.amazonaws.com/integration"
+
+[environments.default.ios]
+platform = "iOS"
+available = true
+minimumVersion = "0.0.1"
+recommendedVersion = "0.0.1"
+searchApiUrl = "https://search.publishing.service.gov.uk/v0_1/search.json"
+authenticationIssuerBaseUrl = "https://govukapp-integration.auth.eu-west-2.amazoncognito.com"
+authenticationIssuerClientId = "35vb4qv5kigloongjg4snabius"
+authenticationTokenBaseUrl = "https://g0s70cfqng.execute-api.eu-west-2.amazonaws.com/integration"
