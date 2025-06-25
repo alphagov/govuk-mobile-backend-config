@@ -51,6 +51,13 @@
             "popular": false
         },
         {
+            "url": "https://www.gov.uk/neonatal-care-pay-leave",
+            "title": "Neonatal Care Pay and Leave",
+            "description": null,
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
             "url": "https://www.gov.uk/paternity-pay-leave",
             "title": "Paternity pay and leave",
             "description": "Your Statutory Paternity Pay and Leave - eligibility, what you get, how to claim.  ",
@@ -91,13 +98,6 @@
             "description": "If you're a sperm donor, you could be the legal parent of any child that is born",
             "isStepByStep": false,
             "popular": false
-        },
-        {
-            "url": "https://www.gov.uk/neonatal-care-pay-leave",
-            "title": "Neonatal Care Pay and Leave",
-            "description": null,
-            "isStepByStep": false,
-            "popular": true
         }
     ]
 }

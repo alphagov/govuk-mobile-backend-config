@@ -28,14 +28,14 @@
             "url": "https://www.gov.uk/mot-lorry-bus-trailer",
             "title": "Get an annual test (MOT) for a lorry, bus or trailer",
             "description": null,
-            "isStepByStep": false,
+            "isStepByStep": true,
             "popular": false
         },
         {
             "url": "https://www.gov.uk/transport-goods-from-uk-by-road",
             "title": "Transport goods out of the UK by road",
             "description": null,
-            "isStepByStep": false,
+            "isStepByStep": true,
             "popular": false
         },
         {

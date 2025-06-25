@@ -3,8 +3,8 @@
     "title": "Income Tax",
     "subtopics": [
         {
-            "ref": "doing-self-assessment",
-            "title": "Doing a Self Assessment"
+            "ref": "self-assessment",
+            "title": "Self Assessment"
         },
         {
             "ref": "dealing-with-HMRC",

@@ -71,16 +71,16 @@
             "popular": false
         },
         {
-            "url": "https://www.gov.uk/free-childcare-if-working",
-            "title": "Get free childcare if you're working",
-            "description": "Get free childcare if you're working",
+            "url": "https://www.gov.uk/sign-in-childcare-account",
+            "title": "Sign in to your childcare account",
+            "description": "If you're a parent registered for Tax-Free Childcare or free childcare if you're working, sign in to pay into your account, reconfirm your eligibility, update your details.",
             "isStepByStep": false,
             "popular": true
         },
         {
-            "url": "https://www.gov.uk/sign-in-childcare-account",
-            "title": "Sign in to your childcare account",
-            "description": "If you're a parent registered for Tax-Free Childcare or free childcare if you're working, sign in to pay into your account, reconfirm your eligibility, update your details.",
+            "url": "https://www.gov.uk/free-childcare-if-working",
+            "title": "Get free childcare if you're working",
+            "description": "Get free childcare if you're working",
             "isStepByStep": false,
             "popular": true
         },

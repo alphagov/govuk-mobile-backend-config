@@ -165,6 +165,13 @@
             "description": "Check if you can get free NHS prescriptions, dental treatment or eye tests - or help with other NHS costs",
             "isStepByStep": false,
             "popular": false
+        },
+        {
+            "url": "https://www.gov.uk/benefits-end-of-life",
+            "title": "Support if you have a health condition or disability",
+            "description": null,
+            "isStepByStep": false,
+            "popular": false
         }
     ]
 }

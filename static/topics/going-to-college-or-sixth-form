@@ -106,6 +106,13 @@
             "description": "Financial help with sending your child to a specialist school for young musicians and dancers",
             "isStepByStep": false,
             "popular": false
+        },
+        {
+            "url": "https://www.gov.uk/dance-drama-awards",
+            "title": "Dance and Drama Awards: funding for students",
+            "description": null,
+            "isStepByStep": false,
+            "popular": false
         }
     ]
 }
