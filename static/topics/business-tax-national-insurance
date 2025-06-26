@@ -11,6 +11,10 @@
             "title": "Company Tax Returns"
         },
         {
+            "ref": "self-assessment",
+            "title": "Self Assessment"
+        },
+        {
             "ref": "ways-to-pay-business-tax",
             "title": "Ways to pay tax"
         },
