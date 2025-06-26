@@ -3,7 +3,7 @@ configVersion = "0.0.11"
 
 [environments.production.ios]
 releaseFlags = {
-  chatService = false
+  chat = false
   localServices = true
   notifications = true
   onboarding = true
@@ -14,7 +14,7 @@ releaseFlags = {
 
 [environments.production.android]
 releaseFlags = {
-  chatService = false
+  chat = false
   localServices = true
   notifications = true
   onboarding = true
@@ -25,7 +25,7 @@ releaseFlags = {
 
 [environments.integration.ios]
 releaseFlags = {
-  chatService = false
+  chat = false
   localServices = true
   notifications = true
   onboarding = true
@@ -36,7 +36,7 @@ releaseFlags = {
 
 [environments.integration.android]
 releaseFlags = {
-  chatService = false
+  chat = false
   localServices = true
   notifications = true
   onboarding = true
