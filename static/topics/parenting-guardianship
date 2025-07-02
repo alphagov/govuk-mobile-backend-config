@@ -50,13 +50,6 @@
     ],
     "content": [
         {
-            "url": "https://www.gov.uk/get-a-divorce",
-            "title": "Get a divorce",
-            "description": "How to file for divorce if you're in England or Wales. ",
-            "isStepByStep": true,
-            "popular": false
-        },
-        {
             "url": "https://www.gov.uk/get-childcare",
             "title": "Get childcare",
             "description": "How to find childcare, get help paying for it and what to do if your circumstances change.",
@@ -67,6 +60,13 @@
             "url": "https://www.gov.uk/get-tax-free-childcare",
             "title": "Get Tax-Free Childcare",
             "description": "Check if you're eligible for Tax-Free Childcare, how to apply and how to pay your childcare provider.",
+            "isStepByStep": true,
+            "popular": false
+        },
+        {
+            "url": "https://www.gov.uk/get-a-divorce",
+            "title": "Get a divorce",
+            "description": "How to file for divorce if you're in England or Wales. ",
             "isStepByStep": true,
             "popular": false
         },
