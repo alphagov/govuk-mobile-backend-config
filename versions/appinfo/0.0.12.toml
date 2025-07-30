@@ -1,0 +1,62 @@
+[metadata]
+configVersion = "0.0.12"
+
+[environments.production.ios]
+releaseFlags = {
+  chat = false
+  localServices = true
+  notifications = true
+  onboarding = true
+  recentActivity = true
+  search = true
+  topics = true
+}
+
+[environments.production.android]
+releaseFlags = {
+  chat = false
+  localServices = true
+  notifications = true
+  onboarding = true
+  recentActivity = true
+  search = true
+  topics = true
+}
+
+[environments.integration.ios]
+releaseFlags = {
+  chat = false
+  localServices = true
+  notifications = true
+  onboarding = true
+  recentActivity = true
+  search = true
+  topics = true
+}
+
+[environments.integration.android]
+releaseFlags = {
+  chat = false
+  localServices = true
+  notifications = true
+  onboarding = true
+  recentActivity = true
+  search = true
+  topics = true
+}
+
+[environments.default.android]
+platform = "Android"
+available = true
+minimumVersion = "0.0.1"
+recommendedVersion = "0.0.1"
+searchApiUrl = "https://search.publishing.service.gov.uk/v0_1/search.json"
+chatPollIntervalSeconds = 3
+
+[environments.default.ios]
+platform = "iOS"
+available = true
+minimumVersion = "0.0.1"
+recommendedVersion = "0.0.1"
+searchApiUrl = "https://search.publishing.service.gov.uk/v0_1/search.json"
+chatPollIntervalSeconds = 3
