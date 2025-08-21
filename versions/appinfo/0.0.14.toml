@@ -36,13 +36,13 @@ releaseFlags = {
   search = true
   topics = true
 }
-emergencyAlert = {
+alertBanner = {
   id = "govuk_alert_emergency_notification_2025"
-	body = "We are testing the UK’s Emergency Alerts system on Sunday 7 September at 3pm"
-	link = {
-		title = "About emergency alerts"
-		url = "https://www.gov.uk/alerts"
-	}
+  body = "We are testing the UK’s Emergency Alerts system on Sunday 7 September at 3pm"
+  link = {
+	 title = "About emergency alerts"
+	 url = "https://www.gov.uk/alerts"
+  }
 }
 
 
@@ -57,13 +57,13 @@ releaseFlags = {
   search = true
   topics = true
 }
-emergencyAlert = {
+alertBanner = {
   id = "govuk_alert_emergency_notification_2025"
-	body = "We are testing the UK’s Emergency Alerts system on Sunday 7 September at 3pm"
-	link = {
-		title = "About emergency alerts"
-		url = "https://www.gov.uk/alerts"
-	}
+  body = "We are testing the UK’s Emergency Alerts system on Sunday 7 September at 3pm"
+  link = {
+	 title = "About emergency alerts"
+	 url = "https://www.gov.uk/alerts"
+  }
 }
 
 [environments.default.android]
