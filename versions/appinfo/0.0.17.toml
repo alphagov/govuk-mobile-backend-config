@@ -1,0 +1,86 @@
+[metadata]
+configVersion = "0.0.17"
+
+[environments.production.ios]
+releaseFlags = {
+  chat = false
+  chatOptIn = false
+  chatTestActive = false
+  localServices = true
+  notifications = true
+  onboarding = true
+  recentActivity = true
+  search = true
+  topics = true
+}
+
+[environments.production.android]
+releaseFlags = {
+  chat = false
+  chatOptIn = false
+  chatTestActive = false
+  localServices = true
+  notifications = true
+  onboarding = true
+  recentActivity = true
+  search = true
+  topics = true
+}
+
+[environments.integration.ios]
+releaseFlags = {
+  chat = false
+  chatOptIn = false
+  chatTestActive = false
+  localServices = true
+  notifications = true
+  onboarding = true
+  recentActivity = true
+  search = true
+  topics = true
+}
+
+[environments.integration.android]
+releaseFlags = {
+  chat = false
+  chatOptIn = false
+  chatTestActive = false
+  localServices = true
+  notifications = true
+  onboarding = true
+  recentActivity = true
+  search = true
+  topics = true
+}
+
+[environments.default.android]
+platform = "Android"
+available = true
+minimumVersion = "0.0.1"
+recommendedVersion = "0.0.1"
+searchApiUrl = "https://search.publishing.service.gov.uk/v0_1/search.json"
+chatPollIntervalSeconds = 3
+alertBanner = {
+  id = "govuk_alert_emergency_notification_2025"
+  body = "We are testing the UK’s Emergency Alerts system on Sunday 7 September at 3pm"
+  link = {
+	 title = "About emergency alerts"
+	 url = "https://www.gov.uk/alerts"
+  }
+}
+
+[environments.default.ios]
+platform = "iOS"
+available = true
+minimumVersion = "0.0.1"
+recommendedVersion = "0.0.1"
+searchApiUrl = "https://search.publishing.service.gov.uk/v0_1/search.json"
+chatPollIntervalSeconds = 3
+alertBanner = {
+  id = "govuk_alert_emergency_notification_2025"
+  body = "We are testing the UK’s Emergency Alerts system on Sunday 7 September at 3pm"
+  link = {
+	 title = "About emergency alerts"
+	 url = "govuk://gov.uk/web?url=https://www.gov.uk/alerts"
+  }
+}
