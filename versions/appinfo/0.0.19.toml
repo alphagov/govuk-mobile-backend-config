@@ -90,16 +90,16 @@ alertBanner = {
 	 url = "govuk://gov.uk/web?url=https://www.gov.uk/alerts"
   }
 }
-chatUrls = {
-    termsAndConditions = "https://www.gov.uk/guidance/govuk-chat-terms-and-conditions"
-    privacyNotice = "https://www.gov.uk/government/publications/govuk-chat-privacy-notice"
-    about = "http://www.gov.uk/guidance/about-govuk-chat"
-    feedback = "https://surveys.publishing.service.gov.uk/s/SUIEH2/"
-}
-userFeedback = {
+userFeedbackBanner = {
   body = "Tell us what you think about the app"
   link = {
 	 title = "Give feedback"
 	 url = "https://www.gov.uk/contact/govuk-app"
   }
+}
+chatUrls = {
+    termsAndConditions = "https://www.gov.uk/guidance/govuk-chat-terms-and-conditions"
+    privacyNotice = "https://www.gov.uk/government/publications/govuk-chat-privacy-notice"
+    about = "http://www.gov.uk/guidance/about-govuk-chat"
+    feedback = "https://surveys.publishing.service.gov.uk/s/SUIEH2/"
 }
