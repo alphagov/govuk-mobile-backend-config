@@ -92,6 +92,13 @@
             "isStepByStep": false,
             "popular": false
         },
+       {
+            "url": "https://www.gov.uk/find-hmrc-contacts/child-benefit-general-enquiries",
+            "title": "Child Benefit: enquiries",
+            "description": "Contact HMRC for information about eligibility, claiming and stopping Child Benefit, changing your personal details and making a complaint.",
+            "isStepByStep": false,
+            "popular": false
+        }        
         {
             "url": "https://www.gov.uk/child-benefit-complaints",
             "title": "Child Benefit complaints",
