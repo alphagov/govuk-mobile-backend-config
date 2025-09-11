@@ -83,14 +83,21 @@
         {
             "url": "http://www.gov.uk/running-payroll",
             "title": "Running payroll",
-            "description": null,
+            "description": "Regular payroll tasks - record employee pay, calculate deductions, give payslips, report to and pay HMRC, view the balance of what you owe HMRC.",
             "isStepByStep": false,
             "popular": false
         },
         {
             "url": "http://www.gov.uk/guidance/work-out-an-employees-income-tax",
             "title": "Work out an employee's Income Tax",
-            "description": null,
+            "description": "Use the PAYE tax calculator to work out how much Income Tax an employee needs to pay, in a pay period that is in the current tax year.",
+            "isStepByStep": false,
+            "popular": false
+        }
+        {
+            "url": "https://www.gov.uk/find-hmrc-contacts/employers-general-enquiries",
+            "title": "Employers: general enquiries",
+            "description": "Contact HMRC with employer enquiries on PAYE, National Insurance contributions, Statutory Payments, stakeholder pensions and student loan repayments."
             "isStepByStep": false,
             "popular": false
         }
