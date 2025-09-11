@@ -20,7 +20,7 @@
             "title": "Get help with the cost of living from your local council",
             "description": "Help you can get from your council’s Household Support Fund if you cannot afford to pay for essentials like energy bills and food.",
             "isStepByStep": false,
-            "popular": true
+            "popular": false
         },
         {
             "url": "https://www.gov.uk/housing-and-universal-credit",
@@ -76,7 +76,7 @@
             "title": "Winter Fuel Payment",
             "description": "Winter Fuel Payment helps older people with their heating bills - claim form, how much you get, eligibility",
             "isStepByStep": false,
-            "popular": false
+            "popular": true
         },
         {
             "url": "https://www.gov.uk/get-a-ppc",

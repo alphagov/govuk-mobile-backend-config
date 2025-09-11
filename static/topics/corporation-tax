@@ -53,7 +53,14 @@
         {
             "url": "https://www.gov.uk/tell-hmrc-your-company-is-dormant-for-corporation-tax",
             "title": "Tell HMRC your company is dormant for Corporation Tax",
-            "description": "How to manage tell HMRC your company is dormant for Corporation Tax if you have stopped trading or have never traded. ",
+            "description": "How to manage tell HMRC your company is dormant for Corporation Tax if you have stopped trading or have never traded.",
+            "isStepByStep": false,
+            "popular": false
+        }
+        {
+            "url": "https://www.gov.uk/find-hmrc-contacts/corporation-tax-general-enquiries",
+            "title": "Corporation Tax: general enquiries",
+            "description": "Contact HMRC for help with general Corporation Tax enquiries.",
             "isStepByStep": false,
             "popular": false
         }

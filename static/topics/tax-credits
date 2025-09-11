@@ -39,6 +39,13 @@
             "popular": false
         },
         {
+            "url": "https://www.gov.uk/find-hmrc-contacts/tax-credits-general-enquiries",
+            "title": "Tax credits: general enquiries",
+            "description": "Contact HMRC for help with tax credits, or to report changes to your circumstances.",
+            "isStepByStep": false,
+            "popular": false
+        }
+        {
             "url": "https://www.gov.uk/tax-credits-appeals-complaints",
             "title": "Tax credits: appeals and complaints",
             "description": "Tax credits - appeals, appeal form, how to make a complaint. ",

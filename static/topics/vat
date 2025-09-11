@@ -50,5 +50,12 @@
             "isStepByStep": false,
             "popular": false
         }
+        {
+            "url": "https://www.gov.uk/find-hmrc-contacts/vat-general-enquiries",
+            "title": "VAT: general enquiries",
+            "description": "Contact HMRC to report changes to your business or ask questions about VAT (including Making Tax Digital for VAT) and Fulfilment House Due Diligence Scheme (FHDDS).",
+            "isStepByStep": false,
+            "popular": false
+        }
     ]
 }

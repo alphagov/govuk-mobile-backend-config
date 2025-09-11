@@ -108,5 +108,12 @@
             "isStepByStep": false,
             "popular": false
         }
+        {
+            "url": "https://www.gov.uk/find-hmrc-contacts/payment-problems-enquiries",
+            "title": "Payment problems: enquiries",
+            "description": "Contact HMRC if you're having problems making a payment.",
+            "isStepByStep": false,
+            "popular": false
+        }
     ]
 }

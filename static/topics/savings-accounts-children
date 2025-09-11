@@ -17,5 +17,19 @@
             "isStepByStep": false,
             "popular": false
         }
+        {
+            "url": "https://www.gov.uk/child-trust-funds",
+            "title": "Child Trust Fund",
+            "description": "Child Trust Fund accounts - find a lost account, how to make payments, managing the account",
+            "isStepByStep": false,
+            "popular": false
+        }
+        {
+            "url": "https://www.gov.uk/find-hmrc-contacts/child-trust-fund-enquiries",
+            "title": "Child Trust Fund: enquiries",
+            "description": "Contact HMRC online to find out where a Child Trust Fund is held, or if your child is terminally ill and you want to take money out of their fund or Junior Individual Savings Account.",
+            "isStepByStep": false,
+            "popular": false
+        }
     ]
 }
