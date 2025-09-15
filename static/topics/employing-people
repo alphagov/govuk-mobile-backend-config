@@ -93,18 +93,18 @@
             "description": "Use the PAYE tax calculator to work out how much Income Tax an employee needs to pay, in a pay period that is in the current tax year.",
             "isStepByStep": false,
             "popular": false
-        }
+        },
         {
             "url": "https://www.gov.uk/employing-an-apprentice",
             "title": "Employing an apprentice",
             "description": "How to employ an apprentice, what's expected of you and what funding you can get.",
             "isStepByStep": false,
             "popular": false
-        }
+        },
         {
             "url": "https://www.gov.uk/find-hmrc-contacts/employers-general-enquiries",
             "title": "Employers: general enquiries",
-            "description": "Contact HMRC with employer enquiries on PAYE, National Insurance contributions, Statutory Payments, stakeholder pensions and student loan repayments."
+            "description": "Contact HMRC with employer enquiries on PAYE, National Insurance contributions, Statutory Payments, stakeholder pensions and student loan repayments.",
             "isStepByStep": false,
             "popular": false
         }

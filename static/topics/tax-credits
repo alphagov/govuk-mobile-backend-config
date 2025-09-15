@@ -44,7 +44,7 @@
             "description": "Contact HMRC for help with tax credits, or to report changes to your circumstances.",
             "isStepByStep": false,
             "popular": false
-        }
+        },
         {
             "url": "https://www.gov.uk/tax-credits-appeals-complaints",
             "title": "Tax credits: appeals and complaints",
