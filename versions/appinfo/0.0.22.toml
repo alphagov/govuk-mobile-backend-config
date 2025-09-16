@@ -67,14 +67,6 @@ releaseFlags = {
   search = true
   topics = true
 }
-chatBanner = {
-  title = "Get quick answers from GOV.UK Chat"
-  body = "Use GOV.UK’s experimental AI tool to find out more about topics, services and information on GOV.UK."
-  link = {
-   title = "Ask a question"
-   url = "govuk://gov.uk/chat"
-  }
-}
 userFeedbackBanner = {
   body = "Tell us what you think about the app"
   link = {
