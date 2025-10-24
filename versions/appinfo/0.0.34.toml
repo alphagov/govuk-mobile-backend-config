@@ -101,7 +101,7 @@ alertBanner = {
   body = "Don’t forget the clocks go back on Sunday"
   link = {
    title = "When do the clocks change?"
-   url = "govuk://gov.uk/web?url=https://www.gov.uk/when-do-the-clocks-change"
+   url = "https://www.gov.uk/when-do-the-clocks-change"
   }
 }
 
