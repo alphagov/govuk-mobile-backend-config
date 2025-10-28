@@ -16,8 +16,8 @@ releaseFlags = {
 }
 chatBanner = {
   id = "govuk_chat_banner_10_2025"
-  title = "Get quick answers from GOV.UK Chat"
-  body = "Early access to GOV.UK's experimental AI tool ends at 10am on 4 November.\n\nUse it now to easily find information from GOV.UK."
+  title = "Try GOV.UK Chat now"
+  body = "Early access to GOV.UK Chat ends at 10am on 4 November."
   link = {
    title = "Ask a question"
    url = "govuk://gov.uk/chat"
@@ -53,8 +53,8 @@ releaseFlags = {
 }
 chatBanner = {
   id = "govuk_chat_banner_10_2025"
-  title = "Get quick answers from GOV.UK Chat"
-  body = "Early access to GOV.UK's experimental AI tool ends at 10am on 4 November.\n\nUse it now to easily find information from GOV.UK."
+  title = "Try GOV.UK Chat now"
+  body = "Early access to GOV.UK Chat ends at 10am on 4 November."
   link = {
    title = "Ask a question"
    url = "govuk://gov.uk/chat"
