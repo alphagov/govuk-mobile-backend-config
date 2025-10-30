@@ -62,6 +62,13 @@
             "popular": false
         },
         {
+            "url": "https://www.gov.uk/universal-credit-advance-hardship-payment",
+            "title": "Apply for a Universal Credit advance or hardship payment",
+            "description": "Apply for financial support if you need an advance or hardship payment before your next Universal Credit payment.",
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
             "url": "https://www.gov.uk/employment-support-allowance",
             "title": "Employment and Support Allowance (ESA)",
             "description": "Employment and Support Allowance (ESA) money if you cannot work because of illness or disability - rates, eligibility, apply, assessment.",

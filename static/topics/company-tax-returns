@@ -39,7 +39,14 @@
         {
             "url": "https://www.gov.uk/guidance/verifying-your-identity-for-companies-house",
             "title": "Verifying your identity for Companies House",
-            "description": null,
+            "description": "You need to prove who you are to set up, run, own or control a company in the UK.",
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
+            "url": "https://www.gov.uk/guidance/companies-house-personal-codes-for-identity-verification",
+            "title": "Companies House personal codes for identity verification",
+            "description": "How to use and manage the personal code you receive when you verify your identity for Companies House.",
             "isStepByStep": false,
             "popular": false
         },

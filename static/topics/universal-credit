@@ -16,6 +16,13 @@
             "popular": false
         },
         {
+            "url": "https://www.gov.uk/universal-credit-advance-hardship-payment",
+            "title": "Apply for a Universal Credit advance or hardship payment",
+            "description": "Apply for financial support if you need an advance or hardship payment before your next Universal Credit payment.",
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
             "url": "https://www.gov.uk/help-with-childcare-costs",
             "title": "Childcare you can get help paying for ('approved childcare')",
             "description": "Help with the cost of paying for approved childcare - Tax-Free Childcare, 15 and 30 hours childcare, childcare vouchers, tax credits, Learner Support.",

@@ -40,6 +40,10 @@
             "title": "Council Tax"
         },
         {
+            "ref": "paying-tax-national-insurance",
+            "title": "Paying business tax and National Insurance"
+        },
+        {
             "ref": "dealing-with-HMRC",
             "title": "Dealing with HMRC"
         }

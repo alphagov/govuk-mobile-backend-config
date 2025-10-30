@@ -12,8 +12,8 @@
         },
         {
             "url": "https://www.gov.uk/mot-reminder",
-            "title": "Get MOT reminders",
-            "description": "Sign up to get free reminders by text message or email a month before your MOT is due",
+            "title": "Get, view or stop MOT reminders",
+            "description": "Sign up to get free text or email reminders before your MOT is due. View or cancel existing MOT reminders.",
             "isStepByStep": false,
             "popular": true
         },
