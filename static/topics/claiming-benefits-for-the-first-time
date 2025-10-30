@@ -21,13 +21,13 @@
             "description": "Find out what benefits you could get, how much you could get and how to claim ",
             "isStepByStep": false,
             "popular": true
-        },
+        },        
         {
-            "url": "https://www.gov.uk/how-to-have-your-benefits-paid",
-            "title": "How and when your benefits are paid",
-            "description": "Benefit payments - payment dates, bank holidays, if you do not have a bank account, Post Office card accounts.",
+            "url": "https://www.gov.uk/benefits-calculators",
+            "title": "Benefits calculators",
+            "description": "Find out what benefits you could get, how much you could get and how to claim ",
             "isStepByStep": false,
-            "popular": false
+            "popular": true
         },
         {
             "url": "https://www.gov.uk/how-to-claim-universal-credit",
@@ -54,6 +54,13 @@
             "url": "https://www.gov.uk/universal-credit",
             "title": "Universal Credit",
             "description": "Universal Credit is replacing 6 other benefits with a single monthly payment if you're out of work or on a low income - eligibility, how to prepare.",
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
+            "url": "https://www.gov.uk/universal-credit-advance-hardship-payment/first-payment",
+            "title": "Apply for a Universal Credit advance or hardship payment: Get an advance on your first payment",
+            "description": "Apply for financial support if you need an advance or hardship payment before your next Universal Credit payment.",
             "isStepByStep": false,
             "popular": false
         },
