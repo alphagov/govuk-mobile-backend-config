@@ -39,6 +39,13 @@
             "popular": false
         },
         {
+            "url": "https://www.gov.uk/universal-credit-advance-hardship-payment",
+            "title": "Apply for a Universal Credit advance or hardship payment",
+            "description": "Apply for financial support if you need an advance or hardship payment before your next Universal Credit payment.",
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
             "url": "https://www.gov.uk/benefits-calculators",
             "title": "Benefits calculators",
             "description": "Find out what benefits you could get, how much you could get and how to claim ",
