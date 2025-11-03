@@ -1,0 +1,102 @@
+[metadata]
+configVersion = "0.0.40"
+
+[environments.production.ios]
+chatPollIntervalSeconds = 1
+releaseFlags = {
+  chat = false
+  chatOptInV2 = false
+  chatTestActive = false
+  localServices = true
+  notifications = true
+  onboarding = true
+  recentActivity = true
+  search = true
+  topics = true
+}
+
+[environments.production.android]
+releaseFlags = {
+  chat = false
+  chatOptIn = false
+  chatTestActive = false
+  localServices = true
+  notifications = true
+  onboarding = true
+  recentActivity = true
+  search = true
+  topics = true
+}
+
+[environments.integration.ios]
+chatPollIntervalSeconds = 1
+refreshTokenExpirySeconds = 3540
+releaseFlags = {
+  chat = false
+  chatOptInV2 = false
+  chatTestActive = false
+  localServices = true
+  notifications = true
+  onboarding = true
+  recentActivity = true
+  search = true
+  topics = true
+}
+
+[environments.integration.android]
+refreshTokenExpirySeconds = 3540
+releaseFlags = {
+  chat = false
+  chatOptIn = false
+  chatTestActive = false
+  localServices = true
+  notifications = true
+  onboarding = true
+  recentActivity = true
+  search = true
+  topics = true
+}
+
+[environments.default.android]
+platform = "Android"
+available = true
+minimumVersion = "0.0.1"
+recommendedVersion = "0.0.1"
+searchApiUrl = "https://search.publishing.service.gov.uk/v0_1/search.json"
+refreshTokenExpirySeconds = 31532400
+chatPollIntervalSeconds = 3
+chatUrls = {
+    termsAndConditions = "https://www.gov.uk/guidance/govuk-chat-terms-and-conditions"
+    privacyNotice = "https://www.gov.uk/government/publications/govuk-chat-privacy-notice"
+    about = "https://www.gov.uk/guidance/about-govuk-chat"
+    feedback = "https://surveys.publishing.service.gov.uk/s/SUIEH2/"
+}
+userFeedbackBanner = {
+  body = "Tell us what you think about the app"
+  link = {
+   title = "Give feedback"
+   url = "https://www.gov.uk/contact/govuk-app"
+  }
+}
+
+[environments.default.ios]
+platform = "iOS"
+available = true
+minimumVersion = "0.0.1"
+recommendedVersion = "0.0.1"
+searchApiUrl = "https://search.publishing.service.gov.uk/v0_1/search.json"
+refreshTokenExpirySeconds = 31532400
+chatPollIntervalSeconds = 0.5
+chatUrls = {
+    termsAndConditions = "https://www.gov.uk/guidance/govuk-chat-terms-and-conditions"
+    privacyNotice = "https://www.gov.uk/government/publications/govuk-chat-privacy-notice"
+    about = "https://www.gov.uk/guidance/about-govuk-chat"
+    feedback = "https://surveys.publishing.service.gov.uk/s/SUIEH2/"
+}
+userFeedbackBanner = {
+  body = "Tell us what you think about the app"
+  link = {
+   title = "Give feedback"
+   url = "https://www.gov.uk/contact/govuk-app"
+  }
+}
