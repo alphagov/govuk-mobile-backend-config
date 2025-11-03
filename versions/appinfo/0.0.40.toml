@@ -14,15 +14,6 @@ releaseFlags = {
   search = true
   topics = true
 }
-chatBanner = {
-  id = "govuk_chat_banner_10_2025"
-  title = "Try GOV.UK Chat now"
-  body = "Early access to GOV.UK Chat ends at 10am on 4 November."
-  link = {
-   title = "Ask a question"
-   url = "govuk://gov.uk/chat"
-  }
-}
 
 [environments.production.android]
 releaseFlags = {
@@ -50,15 +41,6 @@ releaseFlags = {
   recentActivity = true
   search = true
   topics = true
-}
-chatBanner = {
-  id = "govuk_chat_banner_10_2025"
-  title = "Try GOV.UK Chat now"
-  body = "Early access to GOV.UK Chat ends at 10am on 4 November."
-  link = {
-   title = "Ask a question"
-   url = "govuk://gov.uk/chat"
-  }
 }
 
 [environments.integration.android]
