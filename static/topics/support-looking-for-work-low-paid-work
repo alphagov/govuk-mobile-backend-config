@@ -44,6 +44,13 @@
             "popular": false
         },
         {
+            "url": "https://www.gov.uk/universal-credit-advance-hardship-payment",
+            "title": "Apply for a Universal Credit advance or hardship payment",
+            "description": "Apply for financial support if you need an advance or hardship payment before your next Universal Credit payment.",
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
             "url": "https://www.gov.uk/self-employment-and-universal-credit",
             "title": "Self-employment and Universal Credit",
             "description": "Claiming Universal Credit if you're self-employed - eligibility, reporting your earnings, start up periods",

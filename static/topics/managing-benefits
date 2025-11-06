@@ -39,11 +39,25 @@
             "popular": false
         },
         {
+            "url": "https://www.gov.uk/universal-credit-advance-hardship-payment",
+            "title": "Apply for a Universal Credit advance or hardship payment",
+            "description": "Apply for financial support if you need an advance or hardship payment before your next Universal Credit payment.",
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
             "url": "https://www.gov.uk/benefits-calculators",
             "title": "Benefits calculators",
-            "description": "Find out what benefits you could get, how much you could get and how to claim ",
+            "description": "Find out what benefits you could get, how much you could get and how to claim",
             "isStepByStep": false,
             "popular": true
+        },
+        {
+            "url": "https://www.gov.uk/proof-benefits-state-pension",
+            "title": "Get proof of your benefits and State Pension",
+            "description": "Request a letter to prove your State Pension and benefits, including Attendance Allowance, DLA, ESA, Income Support, JSA, Pension Credit and PIP.",
+            "isStepByStep": false,
+            "popular": false
         },
         {
             "url": "https://www.gov.uk/benefit-cap",

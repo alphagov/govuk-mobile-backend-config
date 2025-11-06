@@ -147,6 +147,13 @@
             "title": "Get vehicle information from DVLA",
             "description": "Check a vehicle's details, tax and SORN status and expiry dates on the Driver Vehicle and Licensing Agency (DVLA) database - online and telephone enquiries",
             "isStepByStep": false,
+            "popular": false
+        },
+ {
+            "url": "https://www.gov.uk/check-mot-history",
+            "title": "Check the MOT history of a vehicle",
+            "description": "Check the MOT history of a vehicle from 2005 onwards, including if it passed or failed, its mileage and why it failed, download MOT test certificate",
+            "isStepByStep": false,
             "popular": true
         }
     ]

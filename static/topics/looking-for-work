@@ -44,6 +44,13 @@
             "popular": true
         },
         {
+            "url": "https://www.gov.uk/universal-credit-advance-hardship-payment",
+            "title": "Apply for a Universal Credit advance or hardship payment",
+            "description": "Apply for financial support if you need an advance or hardship payment before your next Universal Credit payment.",
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
             "url": "https://www.gov.uk/career-skills-and-training",
             "title": "Career skills and training",
             "description": "Find courses and training online with the National Careers Service and get advice on funding the costs of learning",

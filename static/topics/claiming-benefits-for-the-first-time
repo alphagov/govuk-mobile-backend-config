@@ -58,6 +58,13 @@
             "popular": false
         },
         {
+            "url": "https://www.gov.uk/universal-credit-advance-hardship-payment/first-payment",
+            "title": "Apply for a Universal Credit advance or hardship payment: Get an advance on your first payment",
+            "description": "Apply for financial support if you need an advance or hardship payment before your next Universal Credit payment.",
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
             "url": "https://www.gov.uk/support-visit-benefit-claim",
             "title": "Support visits if you need help to claim benefits",
             "description": "Reasons for a support visit from the Department for Work and Pensions (DWP) Visiting Team, what to expect and how to check if the visitor is genuine",
