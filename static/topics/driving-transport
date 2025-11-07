@@ -122,6 +122,13 @@
             "popular": false
         },
         {
+            "url": "https://www.gov.uk/check-mot-history",
+            "title": "Check the MOT history of a vehicle",
+            "description": "Check the MOT history of a vehicle from 2005 onwards, including if it passed or failed, its mileage and why it failed, download MOT test certificate",
+            "isStepByStep": false,
+            "popular": true
+        },
+        {
             "url": "https://www.gov.uk/vehicle-tax",
             "title": "Tax your vehicle",
             "description": "Renew or tax your vehicle for the first time using a reminder letter, your log book or the green 'new keeper' slip - and how to tax if you do not have any documents",
@@ -139,20 +146,6 @@
             "url": "https://www.gov.uk/view-driving-licence",
             "title": "View or share your driving licence information",
             "description": "Find out what information DVLA holds about your driving licence or create a check code to share your driving record, for example to hire a car ",
-            "isStepByStep": false,
-            "popular": true
-        },
-        {
-            "url": "https://www.gov.uk/get-vehicle-information-from-dvla",
-            "title": "Get vehicle information from DVLA",
-            "description": "Check a vehicle's details, tax and SORN status and expiry dates on the Driver Vehicle and Licensing Agency (DVLA) database - online and telephone enquiries",
-            "isStepByStep": false,
-            "popular": false
-        },
- {
-            "url": "https://www.gov.uk/check-mot-history",
-            "title": "Check the MOT history of a vehicle",
-            "description": "Check the MOT history of a vehicle from 2005 onwards, including if it passed or failed, its mileage and why it failed, download MOT test certificate",
             "isStepByStep": false,
             "popular": true
         }
