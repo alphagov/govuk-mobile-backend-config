@@ -73,11 +73,11 @@ emergencyBanners = [
         allowsDismissal = true
     },
     {
-        "id": "bridges_test_one",
-        "title": "Notable Death",
-        "body": "1900 - 1999",
-        "type": "notable-death",
-        "allowsDismissal": false
+        id = "bridges_test_one"
+        title = "Notable Death"
+        body = "1900 - 1999"
+        type = "notable-death"
+        allowsDismissal = false
     }
 ]
 
@@ -107,11 +107,11 @@ emergencyBanners = [
         allowsDismissal = true
     },
     {
-        "id": "bridges_test_one",
-        "title": "Notable Death",
-        "body": "1900 - 1999",
-        "type": "notable-death",
-        "allowsDismissal": false
+        id = "bridges_test_one"
+        title = "Notable Death"
+        body = "1900 - 1999"
+        type = "notable-death"
+        allowsDismissal = false
     }
 ]
 
