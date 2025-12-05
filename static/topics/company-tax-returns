@@ -56,6 +56,13 @@
             "description": "What it means to be dormant for Corporation Tax or Companies House - trading and non-trading, annual accounts, Company Tax Returns and telling HM Revenue and Customs (HMRC)",
             "isStepByStep": false,
             "popular": false
+        },
+        {
+            "url": "https://www.gov.uk/find-contact-details-companies-house",
+            "title": "Contact Companies House",
+            "description": null,
+            "isStepByStep": false,
+            "popular": false
         }
     ]
 }
