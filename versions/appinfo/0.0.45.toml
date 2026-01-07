@@ -79,13 +79,21 @@ userFeedbackBanner = {
         url = "https://www.gov.uk/contact/govuk-app"
     }
 }
+alertBanner = {
+    id = "govuk_bank_holidays_alert_01_2026"
+    body = "Bank holidays in 2026"
+    link = {
+        title = "Check the dates"
+        url = "govuk://gov.uk/web?url=https://www.gov.uk/bank-holidays"
+    }
+}
 emergencyBanners = [
     {
         id = "govuk_bank_holidays_alert_01_2026"
         body = "Bank holidays in 2026"
         link = {
             title = "Check the dates"
-            url = "https://www.gov.uk/bank-holidays"
+            url = "govuk://gov.uk/web?url=https://www.gov.uk/bank-holidays"
         },
         type = "information"
         allowsDismissal = true
@@ -118,7 +126,7 @@ alertBanner = {
     body = "Bank holidays in 2026"
     link = {
         title = "Check the dates"
-        url = "https://www.gov.uk/bank-holidays"
+        url = "govuk://gov.uk/web?url=https://www.gov.uk/bank-holidays"
     }
 }
 emergencyBanners = [
@@ -127,7 +135,7 @@ emergencyBanners = [
         body = "Bank holidays in 2026"
         link = {
             title = "Check the dates"
-            url = "https://www.gov.uk/bank-holidays"
+            url = "govuk://gov.uk/web?url=https://www.gov.uk/bank-holidays"
         },
         type = "information"
         allowsDismissal = true
