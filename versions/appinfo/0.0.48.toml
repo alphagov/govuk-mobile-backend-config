@@ -1,0 +1,143 @@
+[metadata]
+configVersion = "0.0.48"
+
+[environments.production.ios]
+chatPollIntervalSeconds = 1
+releaseFlags = {
+    chat = false
+    localServices = true
+    notifications = true
+    onboarding = true
+    recentActivity = true
+    search = true
+    topics = true
+}
+
+[environments.production.android]
+releaseFlags = {
+    chat = false
+    localServices = true
+    notifications = true
+    onboarding = true
+    recentActivity = true
+    search = true
+    topics = true
+}
+
+[environments.integration.ios]
+chatPollIntervalSeconds = 1
+refreshTokenExpirySeconds = 3540
+releaseFlags = {
+    chat = true
+    localServices = true
+    notifications = true
+    onboarding = true
+    recentActivity = true
+    search = true
+    topics = true
+}
+chatBanner = {
+    id = "govuk_chat_banner_01_2026"
+    title = "Introducing GOV.UK Chat"
+    body = "An experimental AI tool for finding quick answers"
+    link = {
+        title = "Ask a question"
+        url = "govuk://gov.uk/chat"
+    }
+}
+
+[environments.integration.android]
+refreshTokenExpirySeconds = 3540
+releaseFlags = {
+    chat = false
+    localServices = true
+    notifications = true
+    onboarding = true
+    recentActivity = true
+    search = true
+    topics = true
+}
+
+[environments.default.android]
+platform = "Android"
+available = true
+minimumVersion = "0.0.1"
+recommendedVersion = "0.0.1"
+searchApiUrl = "https://search.publishing.service.gov.uk/v0_1/search.json"
+refreshTokenExpirySeconds = 31532400
+chatPollIntervalSeconds = 3
+chatUrls = {
+    termsAndConditions = "https://www.gov.uk/guidance/govuk-chat-terms-and-conditions"
+    privacyNotice = "https://www.gov.uk/government/publications/govuk-chat-privacy-notice"
+    about = "https://www.gov.uk/guidance/about-govuk-chat"
+    feedback = "https://surveys.publishing.service.gov.uk/s/SUIEH2/"
+}
+userFeedbackBanner = {
+    body = "Tell us what you think about the app"
+    link = {
+        title = "Give feedback"
+        url = "https://www.gov.uk/contact/govuk-app"
+    }
+}
+alertBanner = {
+    id = "govuk_bank_holidays_alert_01_2026"
+    body = "Bank holidays in 2026"
+    link = {
+        title = "Check the dates"
+        url = "https://www.gov.uk/bank-holidays"
+    }
+}
+emergencyBanners = [
+    {
+        id = "govuk_bank_holidays_alert_01_2026"
+        body = "Bank holidays in 2026"
+        link = {
+            title = "Check the dates"
+            url = "govuk://gov.uk/web?url=https://www.gov.uk/bank-holidays"
+        },
+        type = "information"
+        allowsDismissal = true
+    }
+]
+
+[environments.default.ios]
+platform = "iOS"
+available = true
+minimumVersion = "0.0.1"
+recommendedVersion = "0.0.1"
+searchApiUrl = "https://search.publishing.service.gov.uk/v0_1/search.json"
+refreshTokenExpirySeconds = 31532400
+chatPollIntervalSeconds = 0.5
+chatUrls = {
+    termsAndConditions = "https://www.gov.uk/guidance/govuk-chat-terms-and-conditions"
+    privacyNotice = "https://www.gov.uk/government/publications/govuk-chat-privacy-notice"
+    about = "https://www.gov.uk/guidance/about-govuk-chat"
+    feedback = "https://surveys.publishing.service.gov.uk/s/SUIEH2/"
+}
+userFeedbackBanner = {
+    body = "Tell us what you think about the app"
+    link = {
+        title = "Give feedback"
+        url = "https://www.gov.uk/contact/govuk-app"
+    }
+}
+alertBanner = {
+    id = "govuk_bank_holidays_alert_01_2026"
+    body = "Bank holidays in 2026"
+    link = {
+        title = "Check the dates"
+        url = "govuk://gov.uk/web?url=https://www.gov.uk/bank-holidays"
+    }
+}
+emergencyBanners = [
+    {
+        id = "govuk_bank_holidays_alert_01_2026"
+        body = "Bank holidays in 2026"
+        link = {
+            title = "Check the dates"
+            url = "https://www.gov.uk/bank-holidays"
+        },
+        type = "information"
+        allowsDismissal = true
+    }
+]
