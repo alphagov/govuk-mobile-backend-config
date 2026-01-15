@@ -57,6 +57,15 @@ releaseFlags = {
     search = true
     topics = true
 }
+chatBanner = {
+    id = "govuk_chat_banner_01_2026"
+    title = "Introducing GOV.UK Chat"
+    body = "An experimental AI tool for finding quick answers"
+    link = {
+        title = "Ask a question"
+        url = "govuk://gov.uk/chat"
+    }
+}
 
 [environments.default.android]
 platform = "Android"
