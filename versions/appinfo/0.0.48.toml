@@ -36,7 +36,7 @@ releaseFlags = {
     search = true
     topics = true
 }
-chatBanner = {
+chatBanner_v2 = {
     id = "govuk_chat_banner_01_2026"
     title = "Introducing GOV.UK Chat"
     body = "An experimental AI tool for finding quick answers"
@@ -57,7 +57,7 @@ releaseFlags = {
     search = true
     topics = true
 }
-chatBanner = {
+chatBanner_v2 = {
     id = "govuk_chat_banner_01_2026"
     title = "Introducing GOV.UK Chat"
     body = "An experimental AI tool for finding quick answers"
