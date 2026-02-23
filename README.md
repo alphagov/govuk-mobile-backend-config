@@ -34,6 +34,27 @@ You can automagically fix linting issues with `npm run fix`.
 ## Testing
 Run the tests with `npm test` which invokes Jest. Check code coverage with `npm test -- --coverage=true`.
 
+## How to add a new config version
+* Copy then paste into the same location the current/latest appinfo toml file in `versions/appinfo` e.g. `0.0.21.toml`
+* Change the filename to be incremented by 1 ahead of the copied appinfo filename e.g. `0.0.22.toml`
+* Change the `version` property in the new appinfo toml file to align with its filename e.g. `0.0.22`
+
+## How to deploy 'main' branch to Integration and Production
+Merging into `main` triggers `Deploy config to Integration` workflow so any changes will be published to Integration automatically.
+To deploy changes to Production you must manually run `Deploy config to Production` workflow selecting the `main` branch.
+Changes take 5 minutes to appear in Production (see below how to see changes instantly).
+
+## How to see changes instantly in Production
+Purge the Fastly cache by running the following commands from Terminal/Command Prompt
+
+```shell
+# iOS
+curl -X PURGE https://app.publishing.service.gov.uk/config/appinfo/ios
+
+# Android
+curl -X PURGE https://app.publishing.service.gov.uk/config/appinfo/android
+```
+
 ## TODO
 * automatically fix lint issues on pre-commit
 * potentially a set of bash scripts that invoke the npm equivalents, or one big one
