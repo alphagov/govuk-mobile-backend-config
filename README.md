@@ -42,18 +42,7 @@ Run the tests with `npm test` which invokes Jest. Check code coverage with `npm 
 ## How to deploy 'main' branch to Integration and Production
 Merging into `main` triggers `Deploy config to Integration` workflow so any changes will be published to Integration automatically.
 To deploy changes to Production you must manually run `Deploy config to Production` workflow selecting the `main` branch.
-Changes take 5 minutes to appear in Production (see below how to see changes instantly).
-
-## How to see changes instantly in Production
-Purge the Fastly cache by running the following commands from Terminal/Command Prompt
-
-```shell
-# iOS
-curl -X PURGE https://app.publishing.service.gov.uk/config/appinfo/ios
-
-# Android
-curl -X PURGE https://app.publishing.service.gov.uk/config/appinfo/android
-```
+Changes take 5 minutes to appear in Production.
 
 ## TODO
 * automatically fix lint issues on pre-commit
