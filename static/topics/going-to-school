@@ -59,6 +59,13 @@
             "isStepByStep": false,
             "popular": false
         },
+  {
+            "url": "https://www.gov.uk/guidance/understanding-ofsted-report-cards-and-grades",
+            "title": "Understanding Ofsted report cards and grades",
+            "description": "This page explains Ofsted report cards for your child's education or childcare, including a video and guidance on what's changed from the old system.",
+            "isStepByStep": false,
+            "popular": false
+        },
         {
             "url": "https://www.gov.uk/school-attendance-absence",
             "title": "School attendance and absence",
