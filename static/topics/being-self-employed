@@ -69,6 +69,13 @@
             "popular": false
         },
         {
+            "url": "https://www.gov.uk/guidance/dbs-checks-for-self-employed-people-and-personal-employees",
+            "title": "DBS checks for self-employed people and personal employees",
+            "description": "Guidance on how self-employed individuals and personal employees can apply for Enhanced or Enhanced with Barred List(s) DBS checks through an Umbrella Body.",
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
             "url": "https://www.gov.uk/check-national-insurance-record",
             "title": "Check your National Insurance record",
             "description": "Find out if you've paid enough National Insurance to qualify for the full State Pension - check gaps, contributions and credits, get a National Insurance statement, call the helpline.",
