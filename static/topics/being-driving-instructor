@@ -18,6 +18,13 @@
             "popular": false
         },
         {
+            "url": "https://www.gov.uk/guidance/manage-your-availability-to-take-your-pupils-to-driving-tests",
+            "title": "Manage your availability to take your pupils to driving tests",
+            "description": "As a car driving instructor, you can set times you are available to take your pupils to car driving tests to stop your pupils from booking tests at other times.",
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
             "url": "https://www.gov.uk/book-pupil-driving-test",
             "title": "Book and manage driving and riding tests for your pupils",
             "description": "Book driving and motorcycle tests for your pupils, check details, change, swap or cancel tests, and manage your availability for car driving tests.",
