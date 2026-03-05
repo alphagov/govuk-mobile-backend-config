@@ -49,6 +49,13 @@
             "popular": false
         },
         {
+            "url": "https://www.gov.uk/start-a-job",
+            "title": "Start a new job",
+            "description": "What to do when starting a job: checks your employer may do, employment contracts, what to do with your P45 or starter checklist.",
+            "isStepByStep": true,
+            "popular": false
+        },
+        {
             "url": "https://www.gov.uk/get-tax-free-childcare",
             "title": "Get Tax-Free Childcare",
             "description": "Check if you're eligible for Tax-Free Childcare, how to apply and how to pay your childcare provider.",
