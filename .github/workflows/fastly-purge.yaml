@@ -1,0 +1,13 @@
+name: Fastly Purge
+
+on:
+  workflow_dispatch:
+
+jobs:
+  purge-integration:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Purge Fastly Cache
+        run: |
+          echo "Purging Fastly cache for integration environment"
