@@ -1,0 +1,23 @@
+name: Fastly Purge Production
+
+on:
+  workflow_dispatch:
+
+jobs:
+  purge-production:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Get Secrets
+        uses: bitwarden/sm-action@14f92f1d294ae3c2b6a3845d389cd2c318b0dfd8 # pin@v2.2.0
+        with:
+          access_token: ${{ secrets.BW_ACCESS_TOKEN }}
+          base_url: https://vault.bitwarden.eu
+          secrets: |
+            124d6b80-e7ca-4aed-873e-b40800be3ca3 > FASTLY_API_TOKEN
+
+      - name: Purge Fastly Cache
+        run: |
+          echo "$(curl -i -X POST "https://api.fastly.com/service/3MuBSr714CIWte0nLbHfG2/purge_all" \
+          -H "Fastly-Key: $FASTLY_API_TOKEN" \
+          -H "Accept: application/json")"
