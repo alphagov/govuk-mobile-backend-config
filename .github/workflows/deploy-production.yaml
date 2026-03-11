@@ -35,4 +35,4 @@ jobs:
     - name: Clean up deleted files - static
       run: aws s3 sync --delete static "s3://$BUCKET_NAME/static"
     - name: Purge Fastly Cache
-      uses: ./.github/workflows/fastly-purge-production.yml
+      uses: ./.github/workflows/fastly-purge-production.yaml
