@@ -1,10 +1,10 @@
 [metadata]
-configVersion = "0.0.53"
+configVersion = "0.0.54"
 
 [environments.production.ios]
 chatPollIntervalSeconds = 1
 releaseFlags = {
-    chat = false
+    chat = true
     localServices = true
     notifications = true
     onboarding = true
@@ -15,7 +15,7 @@ releaseFlags = {
 
 [environments.production.android]
 releaseFlags = {
-    chat = false
+    chat = true
     localServices = true
     notifications = true
     onboarding = true
@@ -49,7 +49,7 @@ chatBanner_v2 = {
 [environments.integration.android]
 refreshTokenExpirySeconds = 604800
 releaseFlags = {
-    chat = false
+    chat = true
     localServices = true
     notifications = true
     onboarding = true
