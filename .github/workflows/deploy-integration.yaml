@@ -47,3 +47,4 @@ jobs:
   fastly-purge-integration:
     needs: deploy-integration
     uses: ./.github/workflows/fastly-purge-integration.yaml
+    secrets: inherit
