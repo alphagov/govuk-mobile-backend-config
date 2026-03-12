@@ -2,6 +2,7 @@ name: Fastly Purge Integration
 
 on:
   workflow_dispatch:
+  workflow_call:
 
 jobs:
   purge-integration:
