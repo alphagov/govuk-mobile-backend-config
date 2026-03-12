@@ -38,3 +38,4 @@ jobs:
   fastly-purge-production:
     needs: deploy-production
     uses: ./.github/workflows/fastly-purge-production.yaml
+    secrets: inherit
