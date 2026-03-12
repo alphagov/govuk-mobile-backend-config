@@ -43,5 +43,7 @@ jobs:
       run: aws s3 sync --delete config "s3://$BUCKET_NAME/config"
     - name: Clean up deleted files - static
       run: aws s3 sync --delete static "s3://$BUCKET_NAME/static"
-    - name: Purge Fastly Cache
-      uses: ./.github/workflows/fastly-purge-integration.yaml
+
+  fastly-purge-integration:
+    needs: deploy-integration
+    uses: ./.github/workflows/fastly-purge-integration.yaml
