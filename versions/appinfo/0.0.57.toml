@@ -1,5 +1,5 @@
 [metadata]
-configVersion = "0.0.56"
+configVersion = "0.0.57"
 
 [environments.production.ios]
 chatPollIntervalSeconds = 1
@@ -108,7 +108,8 @@ userFeedbackBanner = {
 }
 termsAndConditions = {
     lastUpdated = "2025-03-18T00:00:00Z",
-    url = "https://www.gov.uk/guidance/govuk-app-terms-and-conditions"
+    url = "https://www.gov.uk/guidance/govuk-app-terms-and-conditions",
+    contentItemApiUrl = "https://www.gov.uk/api/content/guidance/govuk-app-terms-and-conditions"
 }
 chatBanner_v2 = {
     id = "govuk_chat_banner_01_2026"
