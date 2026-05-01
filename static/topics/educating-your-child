@@ -55,6 +55,13 @@
             "popular": false
         },
         {
+            "url": "https://www.gov.uk/guidance/ofsted-explore-an-area",
+            "title": "Ofsted: explore an area",
+            "description": "Find local education and childcare information for areas across England.",
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
             "url": "https://www.gov.uk/apply-free-school-meals",
             "title": "Apply for free school meals",
             "description": "Check if your child can get free school meals - and find out how to apply on your local authority’s website.",
