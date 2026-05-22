@@ -1,7 +1,6 @@
 {
     "ref": "driving-transport",
-    "title": "Driving and transport",
-    "description": "Learning to drive, owning a vehicle",
+    "title": "Driving",
     "subtopics": [
         {
             "ref": "driving-licences",
