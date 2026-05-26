@@ -1,5 +1,5 @@
 [metadata]
-configVersion = "0.0.60"
+configVersion = "0.0.61"
 
 [environments.production.ios]
 chatPollIntervalSeconds = 1
@@ -11,7 +11,7 @@ releaseFlags = {
     recentActivity = true
     search = true
     topics = true
-    profile = true
+    profile = false
 }
 
 [environments.production.android]
@@ -23,7 +23,7 @@ releaseFlags = {
     recentActivity = true
     search = true
     topics = true
-    profile = true
+    profile = false
 }
 
 [environments.integration.ios]
