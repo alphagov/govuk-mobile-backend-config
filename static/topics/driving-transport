@@ -1,6 +1,7 @@
 {
     "ref": "driving-transport",
-    "title": "Driving",
+    "title": "Driving and transport",
+    "description": "Learning to drive, owning a vehicle",
     "subtopics": [
         {
             "ref": "driving-licences",
@@ -43,8 +44,16 @@
             "title": "Losing the right to drive"
         },
         {
+            "ref": "using-public-transport",
+            "title": "Using public transport"
+        },
+        {
             "ref": "driving-HGV-bus-or-business-vehicle",
             "title": "Driving a heavy goods vehicle (HGV), bus or other business vehicle"
+        }, 
+        {
+            "ref": "running-transport-business",
+            "title": "Running a transport business"
         },
         {
             "ref": "being-MOT-tester",
@@ -95,6 +104,13 @@
             "url": "https://www.gov.uk/get-personalised-private-number-plate",
             "title": "Get a private (personalised) number plate",
             "description": "Get a private number plate for your vehicle - buy a number plate, transfer a number plate",
+            "isStepByStep": true,
+            "popular": false
+        },
+        {
+            "url": "https://www.gov.uk/transport-goods-from-uk-by-road",
+            "title": "Transport goods out of the UK by road",
+            "description": "How to transport goods out of the UK by road - vehicle operator licences and permits, driver documents and road haulage rules.",
             "isStepByStep": true,
             "popular": false
         },
