@@ -4,7 +4,7 @@
   "description": "Static backend configuration for GOV.UK mobile apps",
   "main": "index.ts",
   "engines": {
-    "node": ">=11.6.0"
+    "node": ">=14.0.0"
   },
   "scripts": {
     "prestart": "npm run compile",

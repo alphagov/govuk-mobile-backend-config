@@ -15,12 +15,12 @@ interface TopicFile {
 function createUrlToTopicMapping() {
   const topicsDir = 'static/topics/';
   const mapping: Record<string, string[]> = {};
-  const outputFilename: string = 'url-to-topic-mapping';
-  const { exec } = require('child_process');
+  const outputFilename = 'url-to-topic-mapping';
+  const {exec} = require('child_process');
 
   const files = fs.readdirSync(topicsDir);
 
-  files.forEach((filename) => {
+  files.forEach(filename => {
     if (
       filename === '.' ||
       filename === '..' ||
@@ -37,7 +37,7 @@ function createUrlToTopicMapping() {
       const json: TopicFile = JSON.parse(fileContent);
       const topic = json.title;
 
-      json.content.forEach((item) => {
+      json.content.forEach(item => {
         if (mapping[item.url]) {
           mapping[item.url].push(topic);
         } else {
@@ -64,7 +64,9 @@ function createUrlToTopicMapping() {
     }
 
     if (stdout) {
-      console.log('URL to Topic mapping file has been updated. Remember to commit, push and merge these changes!');
+      console.log(
+        'URL to Topic mapping file has been updated. Remember to commit, push and merge these changes!'
+      );
     } else {
       console.log('URL to Topic mapping file is up to date. No changes detected.');
     }
