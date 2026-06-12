@@ -1,0 +1,2603 @@
+{
+  "https://www.gov.uk/government/publications/blue-badge-can-i-get-one/can-i-get-a-blue-badge": [
+    "Access to transport and driving",
+    "Being diagnosed with a long-term condition or disability",
+    "Driving with a medical condition or disability"
+  ],
+  "https://www.gov.uk/apply-blue-badge": [
+    "Access to transport and driving",
+    "Being diagnosed with a long-term condition or disability",
+    "Care",
+    "Being a carer for an adult",
+    "Being a carer for a child",
+    "Driving with a medical condition or disability",
+    "Health and disability"
+  ],
+  "https://www.gov.uk/driving-medical-conditions": [
+    "Access to transport and driving",
+    "Driving with a medical condition or disability",
+    "Losing the right to drive"
+  ],
+  "https://www.gov.uk/replace-lost-stolen-blue-badge": [
+    "Access to transport and driving"
+  ],
+  "https://www.gov.uk/change-blue-badge-details": [
+    "Access to transport and driving"
+  ],
+  "https://www.gov.uk/where-registered-disabled-drivers-can-park": [
+    "Access to transport and driving"
+  ],
+  "https://www.gov.uk/get-vehicle-tax-exemption-disability": [
+    "Access to transport and driving",
+    "Driving with a medical condition or disability"
+  ],
+  "https://www.gov.uk/reapply-driving-licence-medical-condition": [
+    "Access to transport and driving"
+  ],
+  "https://www.gov.uk/transport-disabled": [
+    "Access to transport and driving",
+    "Being a carer for an adult",
+    "Being a carer for a child",
+    "Using public transport"
+  ],
+  "https://www.gov.uk/apply-for-disabled-bus-pass": [
+    "Access to transport and driving",
+    "Using public transport"
+  ],
+  "https://www.gov.uk/apply-school-transport-for-child-with-special-educational-needs-sen": [
+    "Access to transport and driving",
+    "Being a carer for a child",
+    "Special educational needs"
+  ],
+  "https://www.gov.uk/community-transport-services-shopmobility": [
+    "Access to transport and driving",
+    "Support if you're over state pension age",
+    "Using public transport"
+  ],
+  "https://www.gov.uk/mobility-scooters-and-powered-wheelchairs-rules": [
+    "Access to transport and driving",
+    "Driving with a medical condition or disability",
+    "Driving on public roads"
+  ],
+  "https://www.gov.uk/passport-services-disabled": [
+    "Access to transport and driving",
+    "Get a passport"
+  ],
+  "https://www.gov.uk/make-decisions-for-someone": [
+    "Acting on someone's behalf",
+    "Being a carer for an adult"
+  ],
+  "https://www.gov.uk/lasting-power-attorney-duties": [
+    "Acting on someone's behalf"
+  ],
+  "https://www.gov.uk/become-deputy": [
+    "Acting on someone's behalf"
+  ],
+  "https://www.gov.uk/become-appointee-for-someone-claiming-benefits": [
+    "Acting on someone's behalf",
+    "Managing your benefits",
+    "Support if you're caring for someone"
+  ],
+  "https://www.gov.uk/find-someones-attorney-deputy-or-guardian": [
+    "Acting on someone's behalf"
+  ],
+  "https://www.gov.uk/use-lasting-power-of-attorney": [
+    "Acting on someone's behalf"
+  ],
+  "https://www.gov.uk/oneoff-decision-personal-welfare": [
+    "Acting on someone's behalf"
+  ],
+  "https://www.gov.uk/emergency-court-of-protection": [
+    "Acting on someone's behalf"
+  ],
+  "https://www.gov.uk/child-adoption": [
+    "Adopting a child",
+    "Becoming responsible for a child",
+    "Expecting a baby with a surrogate"
+  ],
+  "https://www.gov.uk/apply-to-adopt-child-through-council": [
+    "Adopting a child"
+  ],
+  "https://www.gov.uk/adoption-pay-leave": [
+    "Adopting a child",
+    "Expecting a baby with a surrogate",
+    "Taking leave from work"
+  ],
+  "https://www.gov.uk/plan-adoption-leave": [
+    "Adopting a child",
+    "Expecting a baby with a surrogate"
+  ],
+  "https://www.gov.uk/paternity-pay-leave": [
+    "Adopting a child",
+    "Expecting a baby",
+    "Expecting a baby with a surrogate",
+    "Taking leave from work",
+    "When a baby or child dies"
+  ],
+  "https://www.gov.uk/shared-parental-leave-and-pay": [
+    "Adopting a child",
+    "Expecting a baby",
+    "Expecting a baby with a surrogate",
+    "Taking leave from work"
+  ],
+  "https://www.gov.uk/plan-shared-parental-leave-pay": [
+    "Adopting a child",
+    "Expecting a baby"
+  ],
+  "https://www.gov.uk/parental-rights-responsibilities": [
+    "Adopting a child",
+    "Expecting a baby",
+    "Expecting a baby with a surrogate"
+  ],
+  "https://www.gov.uk/guidance/apply-for-a-review-panel-adopters-and-foster-carers": [
+    "Adopting a child",
+    "Becoming a foster parent"
+  ],
+  "https://www.gov.uk/neonatal-care-pay-leave": [
+    "Adopting a child",
+    "Expecting a baby",
+    "Expecting a baby with a surrogate"
+  ],
+  "https://www.gov.uk/get-undergraduate-student-loan": [
+    "Apply for student finance",
+    "Care",
+    "Doing an undergraduate course",
+    "Leaving care as a young adult",
+    "Manage and repay student finance",
+    "Studying and training"
+  ],
+  "https://www.gov.uk/student-finance-calculator": [
+    "Apply for student finance",
+    "Doing an undergraduate course"
+  ],
+  "https://www.gov.uk/student-finance": [
+    "Apply for student finance",
+    "Doing an undergraduate course"
+  ],
+  "https://www.gov.uk/apply-for-student-finance": [
+    "Apply for student finance"
+  ],
+  "https://www.gov.uk/apply-online-for-student-finance": [
+    "Apply for student finance"
+  ],
+  "https://www.gov.uk/student-finance-forms": [
+    "Apply for student finance"
+  ],
+  "https://www.gov.uk/support-child-or-partners-student-finance-application": [
+    "Apply for student finance"
+  ],
+  "https://www.gov.uk/student-finance-register-login": [
+    "Apply for student finance",
+    "Manage and repay student finance",
+    "Studying and training"
+  ],
+  "https://www.gov.uk/funding-for-postgraduate-study": [
+    "Apply for student finance",
+    "Doing a postgraduate course"
+  ],
+  "https://www.gov.uk/postgraduate-scholarships-international-students": [
+    "Apply for student finance",
+    "Doing a postgraduate course"
+  ],
+  "https://www.gov.uk/contact-student-finance-england": [
+    "Apply for student finance"
+  ],
+  "http://www.gov.uk/veteran-card": [
+    "Armed forces"
+  ],
+  "http://www.gov.uk/get-copy-military-records-of-service": [
+    "Armed forces"
+  ],
+  "http://www.gov.uk/armed-forces-pension-calculator": [
+    "Armed forces"
+  ],
+  "http://www.gov.uk/apply-medal-or-veterans-badge": [
+    "Armed forces"
+  ],
+  "http://www.gov.uk/financial-help-disabled": [
+    "Armed forces"
+  ],
+  "http://www.gov.uk/bfpo": [
+    "Armed forces"
+  ],
+  "http://www.gov.uk/claim-for-injury-received-while-serving": [
+    "Armed forces"
+  ],
+  "http://www.gov.uk/employee-reservist": [
+    "Armed forces"
+  ],
+  "http://www.gov.uk/war-widow-pension": [
+    "Armed forces"
+  ],
+  "http://www.gov.uk/search-armed-forces-memorial-roll-of-honour": [
+    "Armed forces"
+  ],
+  "https://www.gov.uk/sign-in-childcare-account": [
+    "Arranging childcare",
+    "Benefits",
+    "Managing your benefits",
+    "Parenting and guardianship",
+    "Tax-Free Childcare"
+  ],
+  "https://www.gov.uk/get-childcare": [
+    "Arranging childcare",
+    "Care",
+    "Being a carer for a child",
+    "Parenting and guardianship"
+  ],
+  "https://www.gov.uk/get-tax-free-childcare": [
+    "Arranging childcare",
+    "Being in work: your rights and pay",
+    "Being self-employed",
+    "Benefits",
+    "Employment",
+    "Parenting and guardianship",
+    "Tax-Free Childcare"
+  ],
+  "https://www.gov.uk/free-childcare-if-working": [
+    "Arranging childcare",
+    "Being in work: your rights and pay",
+    "Parenting and guardianship",
+    "Tax-Free Childcare"
+  ],
+  "https://www.gov.uk/help-with-childcare-costs": [
+    "Arranging childcare",
+    "Tax-Free Childcare",
+    "Universal Credit"
+  ],
+  "https://www.gov.uk/find-nursery-school-place": [
+    "Arranging childcare"
+  ],
+  "https://www.gov.uk/find-registered-childminder": [
+    "Arranging childcare"
+  ],
+  "https://www.gov.uk/find-free-early-education": [
+    "Arranging childcare"
+  ],
+  "https://www.gov.uk/guidance/ofsted-explore-an-area": [
+    "Arranging childcare",
+    "Educating your child"
+  ],
+  "https://www.gov.uk/childcare-out-of-school-hours": [
+    "Arranging childcare",
+    "Educating your child"
+  ],
+  "https://www.gov.uk/after-school-holiday-club": [
+    "Arranging childcare",
+    "Educating your child"
+  ],
+  "https://www.gov.uk/au-pairs-employment-law": [
+    "Arranging childcare"
+  ],
+  "https://www.gov.uk/early-years-foundation-stage": [
+    "Arranging childcare"
+  ],
+  "https://www.gov.uk/childcare-calculator": [
+    "Arranging childcare",
+    "Educating your child"
+  ],
+  "https://www.gov.uk/tax-free-childcare": [
+    "Arranging childcare",
+    "Tax-Free Childcare"
+  ],
+  "https://www.gov.uk/apply-for-tax-free-childcare": [
+    "Arranging childcare",
+    "Tax-Free Childcare"
+  ],
+  "https://www.gov.uk/apply-free-childcare-if-youre-working": [
+    "Arranging childcare"
+  ],
+  "https://www.gov.uk/universal-credit/what-youll-get": [
+    "Arranging childcare",
+    "Being a carer for an adult",
+    "Being a carer for a child",
+    "Support if you're caring for someone",
+    "Universal Credit"
+  ],
+  "https://www.gov.uk/help-with-childcare-costs/free-childcare-2-year-olds-claim-benefits": [
+    "Arranging childcare"
+  ],
+  "https://www.gov.uk/get-extra-early-years-funding": [
+    "Arranging childcare",
+    "Universal Credit"
+  ],
+  "https://www.gov.uk/becoming-bankrupt": [
+    "Experiencing bankruptcy or insolvency",
+    "Dealing with debt and money issues"
+  ],
+  "https://www.gov.uk/apply-for-bankruptcy": [
+    "Experiencing bankruptcy or insolvency",
+    "Dealing with debt and money issues"
+  ],
+  "https://www.gov.uk/strike-off-your-company-from-companies-register": [
+    "Experiencing bankruptcy or insolvency",
+    "Selling or closing a business"
+  ],
+  "https://www.gov.uk/liquidate-your-company": [
+    "Experiencing bankruptcy or insolvency",
+    "Selling or closing a business"
+  ],
+  "https://www.gov.uk/staff-redundant": [
+    "Experiencing bankruptcy or insolvency",
+    "Selling or closing a business"
+  ],
+  "https://www.gov.uk/calculate-employee-redundancy-pay": [
+    "Experiencing bankruptcy or insolvency",
+    "Selling or closing a business"
+  ],
+  "https://www.gov.uk/transfers-takeovers": [
+    "Experiencing bankruptcy or insolvency",
+    "Selling or closing a business"
+  ],
+  "https://www.gov.uk/options-for-dealing-with-your-debts": [
+    "Experiencing bankruptcy or insolvency",
+    "Dealing with debt and money issues"
+  ],
+  "https://www.gov.uk/company-voluntary-arrangements": [
+    "Experiencing bankruptcy or insolvency"
+  ],
+  "https://www.gov.uk/get-help-insolvency-service": [
+    "Experiencing bankruptcy or insolvency"
+  ],
+  "https://www.gov.uk/find-an-insolvency-practitioner": [
+    "Experiencing bankruptcy or insolvency"
+  ],
+  "https://www.gov.uk/becoming-foster-parent": [
+    "Becoming a foster parent",
+    "Becoming responsible for a child"
+  ],
+  "https://www.gov.uk/apply-foster-child-council": [
+    "Becoming a foster parent"
+  ],
+  "https://www.gov.uk/support-for-foster-parents": [
+    "Becoming a foster parent",
+    "Becoming responsible for a child"
+  ],
+  "https://www.gov.uk/criminal-record-checks-apply-role": [
+    "Becoming a foster parent",
+    "Becoming responsible for a child",
+    "Looking for work"
+  ],
+  "https://www.gov.uk/government/collections/guidance-for-foster-carers": [
+    "Becoming a foster parent"
+  ],
+  "https://www.gov.uk/apply-special-guardian": [
+    "Becoming a guardian",
+    "Becoming responsible for a child"
+  ],
+  "https://www.gov.uk/looking-after-someone-elses-child": [
+    "Becoming a guardian",
+    "Becoming responsible for a child"
+  ],
+  "https://www.gov.uk/guardians-allowance": [
+    "Becoming a guardian",
+    "Becoming responsible for a child",
+    "Support when someone dies"
+  ],
+  "https://www.gov.uk/if-your-child-is-taken-into-care": [
+    "Becoming responsible for a child",
+    "Separation and divorce if you have children"
+  ],
+  "https://www.gov.uk/mot-testing-service": [
+    "Being an MOT tester"
+  ],
+  "https://www.gov.uk/become-an-mot-tester": [
+    "Being an MOT tester"
+  ],
+  "https://www.gov.uk/become-an-mot-station": [
+    "Being an MOT tester"
+  ],
+  "https://www.gov.uk/mot-tester-training-assessments": [
+    "Being an MOT tester"
+  ],
+  "https://www.gov.uk/if-you-become-disabled": [
+    "Being diagnosed with a long-term condition or disability"
+  ],
+  "https://www.gov.uk/financial-help-disabled": [
+    "Being diagnosed with a long-term condition or disability",
+    "Financial support if you have a long-term condition or disabliity",
+    "Support if you have a health condition or disability"
+  ],
+  "https://www.gov.uk/health-conditions-disability-universal-credit": [
+    "Being diagnosed with a long-term condition or disability",
+    "Financial support if you have a long-term condition or disabliity",
+    "Support if you have a health condition or disability"
+  ],
+  "https://www.gov.uk/reasonable-adjustments-for-disabled-workers": [
+    "Being diagnosed with a long-term condition or disability",
+    "Returning to work"
+  ],
+  "https://www.gov.uk/apply-needs-assessment-social-services": [
+    "Being diagnosed with a long-term condition or disability"
+  ],
+  "https://www.gov.uk/disabled-facilities-grants": [
+    "Being diagnosed with a long-term condition or disability",
+    "Being a carer for an adult",
+    "Being a carer for a child",
+    "Financial support if you have a long-term condition or disabliity",
+    "Support if you have a health condition or disability"
+  ],
+  "https://www.gov.uk/apply-home-equipment-for-disabled": [
+    "Being diagnosed with a long-term condition or disability"
+  ],
+  "https://www.gov.uk/disabled-students-allowance-dsa": [
+    "Being diagnosed with a long-term condition or disability",
+    "Financial support if you have a long-term condition or disabliity",
+    "Extra funding for eligible students",
+    "Support if you have a health condition or disability"
+  ],
+  "https://www.gov.uk/rights-disabled-person": [
+    "Being diagnosed with a long-term condition or disability"
+  ],
+  "https://www.gov.uk/when-mental-health-condition-becomes-disability": [
+    "Being diagnosed with a long-term condition or disability"
+  ],
+  "https://www.gov.uk/power-of-attorney": [
+    "Being diagnosed with a long-term condition or disability"
+  ],
+  "https://www.gov.uk/children-with-special-educational-needs": [
+    "Being diagnosed with a long-term condition or disability",
+    "Being a carer for a child",
+    "Going to school",
+    "Special educational needs"
+  ],
+  "https://www.gov.uk/help-for-disabled-child": [
+    "Being diagnosed with a long-term condition or disability",
+    "Being a carer for a child",
+    "Special educational needs"
+  ],
+  "https://www.gov.uk/become-car-driving-instructor": [
+    "Being a driving instructor",
+    "Driving and transport"
+  ],
+  "https://www.gov.uk/book-pupil-theory-test": [
+    "Being a driving instructor"
+  ],
+  "https://www.gov.uk/guidance/manage-your-availability-to-take-your-pupils-to-driving-tests": [
+    "Being a driving instructor"
+  ],
+  "https://www.gov.uk/book-pupil-driving-test": [
+    "Being a driving instructor"
+  ],
+  "https://www.gov.uk/find-driving-test-centre": [
+    "Being a driving instructor"
+  ],
+  "https://www.gov.uk/criminal-record-check-become-driving-instructor": [
+    "Being a driving instructor"
+  ],
+  "https://www.gov.uk/renew-approved-driving-instructor-adi-registration": [
+    "Being a driving instructor"
+  ],
+  "https://www.gov.uk/manage-approved-driving-instructor-registration": [
+    "Being a driving instructor"
+  ],
+  "https://www.gov.uk/update-approved-driving-instructor-registration": [
+    "Being a driving instructor"
+  ],
+  "https://www.gov.uk/adi-standards-check": [
+    "Being a driving instructor"
+  ],
+  "https://www.gov.uk/become-motorcycle-instructor": [
+    "Being a driving instructor"
+  ],
+  "https://www.gov.uk/start-a-job": [
+    "Being in work: your rights and pay",
+    "Employment",
+    "Looking for work"
+  ],
+  "https://www.gov.uk/plan-for-retirement": [
+    "Being in work: your rights and pay",
+    "Being self-employed",
+    "Employment",
+    "Planning your retirement income",
+    "Retirement"
+  ],
+  "https://www.gov.uk/understanding-your-pay": [
+    "Being in work: your rights and pay"
+  ],
+  "https://www.gov.uk/national-minimum-wage-rates": [
+    "Being in work: your rights and pay",
+    "Doing an apprenticeship or internship"
+  ],
+  "https://www.gov.uk/calculate-your-holiday-entitlement": [
+    "Being in work: your rights and pay"
+  ],
+  "https://www.gov.uk/bank-holidays": [
+    "Being in work: your rights and pay",
+    "Taking leave from work"
+  ],
+  "https://www.gov.uk/flexible-working": [
+    "Being in work: your rights and pay"
+  ],
+  "https://www.gov.uk/employment-contracts-and-conditions": [
+    "Being in work: your rights and pay"
+  ],
+  "https://www.gov.uk/workplace-pensions": [
+    "Being in work: your rights and pay",
+    "Types of pensions"
+  ],
+  "https://www.gov.uk/repaying-your-student-loan": [
+    "Being in work: your rights and pay",
+    "Being self-employed",
+    "Manage and repay student finance"
+  ],
+  "https://www.gov.uk/statutory-sick-pay": [
+    "Being in work: your rights and pay",
+    "Expecting a baby",
+    "Expecting a baby with a surrogate",
+    "Support if you have a health condition or disability",
+    "Taking time off sick",
+    "When a baby or child dies"
+  ],
+  "https://www.gov.uk/maternity-paternity-pay-leave": [
+    "Being in work: your rights and pay",
+    "Expecting a baby"
+  ],
+  "https://www.gov.uk/discrimination-your-rights": [
+    "Being in work: your rights and pay",
+    "Returning to work"
+  ],
+  "https://www.gov.uk/redundancy-your-rights": [
+    "Being in work: your rights and pay",
+    "Being made redundant"
+  ],
+  "https://www.gov.uk/calculate-your-redundancy-pay": [
+    "Being made redundant"
+  ],
+  "https://www.gov.uk/claim-redundancy": [
+    "Being made redundant"
+  ],
+  "https://www.gov.uk/claim-loss-notice": [
+    "Being made redundant"
+  ],
+  "https://www.gov.uk/guidance/redundancy-help-finding-work-and-claiming-benefits": [
+    "Being made redundant"
+  ],
+  "https://www.gov.uk/redundancy-payments-helpline": [
+    "Being made redundant"
+  ],
+  "https://www.gov.uk/check-benefits-financial-support": [
+    "Being made redundant",
+    "Being unemployed",
+    "Benefits",
+    "Being a carer for an adult",
+    "Being a carer for a child",
+    "Claiming benefits for the first time",
+    "Dealing with debt and money issues",
+    "Looking for work",
+    "Support if you're caring for someone",
+    "Support if you have a health condition or disability",
+    "Support with housing and living costs",
+    "Support if you're looking for work or in low paid work",
+    "Support if you're over state pension age",
+    "Support when someone dies",
+    "Tax Credits"
+  ],
+  "https://www.gov.uk/universal-credit-advance-hardship-payment/circumstances-changed": [
+    "Being made redundant",
+    "Being unemployed"
+  ],
+  "https://www.gov.uk/your-rights-if-your-employer-is-insolvent": [
+    "Being made redundant"
+  ],
+  "https://www.gov.uk/lay-offs-short-timeworking": [
+    "Being made redundant"
+  ],
+  "https://www.gov.uk/employment-tribunals": [
+    "Being made redundant",
+    "Grievances, disciplinary action and being dismissed"
+  ],
+  "https://www.gov.uk/personal-tax-account": [
+    "Being self-employed",
+    "Dealing with HMRC",
+    "Employment",
+    "Income Tax",
+    "Managing savings and investments",
+    "Money and tax",
+    "National Insurance",
+    "Paying tax and National Insurance",
+    "Self Assessment"
+  ],
+  "https://www.gov.uk/tell-hmrc-change-of-details": [
+    "Being self-employed",
+    "Dealing with HMRC",
+    "Income Tax",
+    "Paying tax and National Insurance",
+    "Self Assessment"
+  ],
+  "https://www.gov.uk/working-for-yourself": [
+    "Being self-employed",
+    "Setting up a business or charity"
+  ],
+  "https://www.gov.uk/income-tax": [
+    "Being self-employed",
+    "Income Tax",
+    "Paying tax and National Insurance"
+  ],
+  "https://www.gov.uk/self-assessment-tax-returns": [
+    "Being self-employed",
+    "Business",
+    "Self Assessment"
+  ],
+  "https://www.gov.uk/self-employed-national-insurance-rates": [
+    "Being self-employed",
+    "National Insurance",
+    "National Insurance for businesses"
+  ],
+  "https://www.gov.uk/guidance/dbs-checks-for-self-employed-people-and-personal-employees": [
+    "Being self-employed"
+  ],
+  "https://www.gov.uk/check-national-insurance-record": [
+    "Being self-employed",
+    "Employment",
+    "Money and tax",
+    "National Insurance",
+    "Paying tax and National Insurance",
+    "Planning your retirement income"
+  ],
+  "https://www.gov.uk/expenses-if-youre-self-employed": [
+    "Being self-employed",
+    "Self Assessment"
+  ],
+  "https://www.gov.uk/personal-pensions-your-rights": [
+    "Being self-employed",
+    "Types of pensions"
+  ],
+  "https://www.gov.uk/benefits-calculators": [
+    "Being unemployed",
+    "Care",
+    "Being a carer for an adult",
+    "Being a carer for a child",
+    "Claiming benefits for the first time",
+    "Dealing with debt and money issues",
+    "Financial support if you have a long-term condition or disabliity",
+    "Health and disability",
+    "Looking for work",
+    "Managing your benefits",
+    "Support if you're caring for someone",
+    "Support if you have a health condition or disability",
+    "Support if you're looking for work or in low paid work",
+    "Support if you're over state pension age",
+    "Support when someone dies"
+  ],
+  "https://www.gov.uk/universal-credit": [
+    "Being unemployed",
+    "Benefits",
+    "Care",
+    "Claiming benefits for the first time",
+    "Expecting a baby",
+    "Leaving care as a young adult",
+    "Support if you're looking for work or in low paid work",
+    "Taking time off sick"
+  ],
+  "https://www.gov.uk/sign-in-universal-credit": [
+    "Being unemployed",
+    "Benefits",
+    "Employment",
+    "Managing your benefits",
+    "Support if you're looking for work or in low paid work"
+  ],
+  "https://www.gov.uk/how-to-claim-universal-credit": [
+    "Being unemployed",
+    "Benefits",
+    "Claiming benefits for the first time",
+    "Employment",
+    "Financial support if you have a long-term condition or disabliity",
+    "Health and disability",
+    "Support if you have a health condition or disability",
+    "Support if you're looking for work or in low paid work"
+  ],
+  "https://www.gov.uk/self-employment-and-universal-credit": [
+    "Being unemployed",
+    "Support if you're looking for work or in low paid work"
+  ],
+  "https://www.gov.uk/how-to-claim-new-style-jsa": [
+    "Being unemployed",
+    "Benefits",
+    "Employment",
+    "Support if you're looking for work or in low paid work"
+  ],
+  "https://www.gov.uk/jobseekers-allowance": [
+    "Being unemployed",
+    "Leaving care as a young adult",
+    "Support if you're looking for work or in low paid work"
+  ],
+  "https://www.gov.uk/employment-support-allowance": [
+    "Being unemployed",
+    "Financial support if you have a long-term condition or disabliity",
+    "Support if you have a health condition or disability",
+    "Support if you're looking for work or in low paid work",
+    "Taking time off sick"
+  ],
+  "https://www.gov.uk/find-a-job": [
+    "Being unemployed",
+    "Employment",
+    "Leaving care as a young adult",
+    "Looking for work",
+    "Support if you're looking for work or in low paid work"
+  ],
+  "https://www.gov.uk/moving-from-benefits-to-work": [
+    "Being unemployed",
+    "Leaving care as a young adult",
+    "Support if you're looking for work or in low paid work"
+  ],
+  "https://www.gov.uk/budgeting-help-benefits": [
+    "Being unemployed",
+    "Support if you're looking for work or in low paid work"
+  ],
+  "https://www.gov.uk/get-help-savings-low-income": [
+    "Being unemployed",
+    "Managing savings and investments",
+    "Support if you're looking for work or in low paid work"
+  ],
+  "https://www.gov.uk/when-someone-dies": [
+    "Benefits",
+    "Inheritance Tax",
+    "Money and tax",
+    "Support when someone dies"
+  ],
+  "https://www.gov.uk/challenge-appeal-benefit-decision": [
+    "Benefits",
+    "Managing your benefits"
+  ],
+  "https://www.gov.uk/pension-credit": [
+    "Benefits and payments for older people",
+    "Being a carer for an adult",
+    "Going into care as an adult",
+    "Support if you're caring for someone",
+    "Support if you're looking for work or in low paid work",
+    "Support if you're over state pension age"
+  ],
+  "https://www.gov.uk/pension-credit-calculator": [
+    "Benefits and payments for older people"
+  ],
+  "https://www.gov.uk/attendance-allowance": [
+    "Benefits and payments for older people",
+    "Financial support if you have a long-term condition or disabliity",
+    "Going into care as an adult",
+    "Support if you have a health condition or disability"
+  ],
+  "https://www.gov.uk/housing-benefit": [
+    "Benefits and payments for older people",
+    "Support with housing and living costs"
+  ],
+  "https://www.gov.uk/apply-for-elderly-person-bus-pass": [
+    "Benefits and payments for older people",
+    "Support if you're over state pension age",
+    "Using public transport"
+  ],
+  "https://www.gov.uk/the-warm-home-discount-scheme": [
+    "Benefits and payments for older people",
+    "Support with housing and living costs",
+    "Support if you're over state pension age"
+  ],
+  "https://www.gov.uk/winter-fuel-payment": [
+    "Benefits and payments for older people",
+    "Support with housing and living costs",
+    "Support if you're over state pension age"
+  ],
+  "https://www.gov.uk/cold-weather-payment": [
+    "Benefits and payments for older people",
+    "Support with housing and living costs",
+    "Support if you're over state pension age"
+  ],
+  "https://www.gov.uk/free-discount-tv-licence": [
+    "Benefits and payments for older people",
+    "Support with housing and living costs",
+    "Support if you're over state pension age"
+  ],
+  "https://www.gov.uk/set-up-as-sole-trader": [
+    "Business",
+    "Setting up a business or charity"
+  ],
+  "https://www.gov.uk/set-up-limited-company": [
+    "Business",
+    "Setting up a business or charity"
+  ],
+  "https://www.gov.uk/set-up-a-charity": [
+    "Business",
+    "Setting up a business or charity"
+  ],
+  "https://www.gov.uk/get-ready-to-employ-someone": [
+    "Business",
+    "Employing people"
+  ],
+  "https://www.gov.uk/employ-someone": [
+    "Business",
+    "Employing people"
+  ],
+  "https://www.gov.uk/import-goods-into-uk": [
+    "Business",
+    "Importing and exporting"
+  ],
+  "https://www.gov.uk/import-customs-declaration": [
+    "Business",
+    "Importing and exporting"
+  ],
+  "https://www.gov.uk/export-goods": [
+    "Business",
+    "Importing and exporting"
+  ],
+  "https://www.gov.uk/get-information-about-a-company": [
+    "Business",
+    "Setting up a business or charity"
+  ],
+  "https://www.gov.uk/guidance/verify-your-identity-for-companies-house": [
+    "Business"
+  ],
+  "https://www.gov.uk/file-your-confirmation-statement-with-companies-house": [
+    "Business",
+    "Company Tax Returns"
+  ],
+  "https://www.gov.uk/buy-a-vehicle": [
+    "Buying a vehicle",
+    "Driving and transport"
+  ],
+  "https://www.gov.uk/get-vehicle-information-from-dvla": [
+    "Buying a vehicle",
+    "Vehicle tax"
+  ],
+  "https://www.gov.uk/check-mot-history": [
+    "Buying a vehicle",
+    "Driving and transport"
+  ],
+  "https://www.gov.uk/check-mot-status": [
+    "Buying a vehicle"
+  ],
+  "https://www.gov.uk/checks-when-buying-a-used-car": [
+    "Buying a vehicle"
+  ],
+  "https://www.gov.uk/co2-and-vehicle-tax-tools": [
+    "Buying a vehicle",
+    "Driving on public roads",
+    "Vehicle tax"
+  ],
+  "https://www.gov.uk/check-vehicle-recall": [
+    "Buying a vehicle",
+    "MOT and insurance"
+  ],
+  "https://www.gov.uk/check-vehicle-tax": [
+    "Buying a vehicle",
+    "Driving on public roads",
+    "Driving and transport",
+    "Vehicle tax"
+  ],
+  "https://www.gov.uk/vehicle-registration": [
+    "Buying a vehicle",
+    "Vehicle registration and number plates"
+  ],
+  "https://www.gov.uk/vehicle-log-book": [
+    "Buying a vehicle",
+    "Vehicle registration and number plates"
+  ],
+  "https://www.gov.uk/sold-bought-vehicle": [
+    "Buying a vehicle",
+    "Selling or scrapping a vehicle"
+  ],
+  "https://www.gov.uk/capital-gains-tax": [
+    "Capital Gains Tax"
+  ],
+  "https://www.gov.uk/report-and-pay-your-capital-gains-tax": [
+    "Capital Gains Tax"
+  ],
+  "https://www.gov.uk/tax-sell-home": [
+    "Capital Gains Tax"
+  ],
+  "https://www.gov.uk/tax-sell-property": [
+    "Capital Gains Tax"
+  ],
+  "https://www.gov.uk/tax-live-abroad-sell-uk-home": [
+    "Capital Gains Tax"
+  ],
+  "https://www.gov.uk/guidance/capital-gains-tax-for-non-residents-uk-residential-property": [
+    "Capital Gains Tax"
+  ],
+  "https://www.gov.uk/money-property-when-relationship-ends/tax": [
+    "Capital Gains Tax"
+  ],
+  "https://www.gov.uk/tax-sell-shares": [
+    "Capital Gains Tax",
+    "Managing savings and investments"
+  ],
+  "https://www.gov.uk/trusts-taxes": [
+    "Capital Gains Tax",
+    "Managing savings and investments"
+  ],
+  "https://www.gov.uk/capital-gains-tax-personal-possessions": [
+    "Capital Gains Tax"
+  ],
+  "https://www.gov.uk/capital-gains-tax-businesses": [
+    "Capital Gains Tax"
+  ],
+  "https://www.gov.uk/business-asset-disposal-relief": [
+    "Capital Gains Tax",
+    "Selling or closing a business"
+  ],
+  "https://www.gov.uk/business-asset-rollover-relief": [
+    "Capital Gains Tax"
+  ],
+  "https://www.gov.uk/gift-holdover-relief": [
+    "Capital Gains Tax"
+  ],
+  "https://www.gov.uk/incorporation-relief": [
+    "Capital Gains Tax"
+  ],
+  "https://www.gov.uk/carers-allowance": [
+    "Care",
+    "Being a carer for an adult",
+    "Being a carer for a child",
+    "Financial support if you have a long-term condition or disabliity",
+    "Health and disability",
+    "Support if you're caring for someone",
+    "Support if you have a health condition or disability"
+  ],
+  "https://www.gov.uk/report-benefits-change-circumstances": [
+    "Being a carer for an adult",
+    "Being a carer for a child",
+    "Going into care as an adult",
+    "Managing your benefits",
+    "Support if you're caring for someone"
+  ],
+  "https://www.gov.uk/carers-allowance-report-change": [
+    "Being a carer for an adult",
+    "Going into care as an adult",
+    "Support if you're caring for someone"
+  ],
+  "https://www.gov.uk/carers-credit": [
+    "Being a carer for an adult",
+    "Being a carer for a child",
+    "Support if you're caring for someone"
+  ],
+  "https://www.gov.uk/dla-disability-living-allowance-benefit": [
+    "Being a carer for an adult",
+    "Financial support if you have a long-term condition or disabliity",
+    "Going into care as an adult",
+    "Support if you're caring for someone",
+    "Support if you have a health condition or disability"
+  ],
+  "https://www.gov.uk/pip": [
+    "Being a carer for an adult",
+    "Being a carer for a child",
+    "Financial support if you have a long-term condition or disabliity",
+    "Going into care as an adult",
+    "Health and disability",
+    "Support if you're caring for someone",
+    "Support if you have a health condition or disability"
+  ],
+  "https://www.gov.uk/time-off-for-dependants": [
+    "Being a carer for an adult",
+    "Being a carer for a child",
+    "Taking leave from work"
+  ],
+  "https://www.gov.uk/carers-leave": [
+    "Being a carer for an adult",
+    "Being a carer for a child",
+    "Taking leave from work"
+  ],
+  "https://www.gov.uk/disability-living-allowance-children": [
+    "Being a carer for a child",
+    "Financial support if you have a long-term condition or disabliity",
+    "Support if you have a health condition or disability"
+  ],
+  "https://www.gov.uk/sign-in-vat-account": [
+    "Charging and paying VAT"
+  ],
+  "https://www.gov.uk/register-for-vat": [
+    "Charging and paying VAT"
+  ],
+  "https://www.gov.uk/submit-vat-return": [
+    "Charging and paying VAT"
+  ],
+  "https://www.gov.uk/pay-vat": [
+    "Charging and paying VAT"
+  ],
+  "https://www.gov.uk/how-vat-works": [
+    "Charging and paying VAT",
+    "VAT"
+  ],
+  "https://www.gov.uk/charge-reclaim-record-vat": [
+    "Charging and paying VAT"
+  ],
+  "https://www.gov.uk/check-uk-vat-number": [
+    "Charging and paying VAT",
+    "VAT"
+  ],
+  "https://www.gov.uk/vat-repayments": [
+    "Charging and paying VAT"
+  ],
+  "https://www.gov.uk/vat-payment-deadlines": [
+    "Charging and paying VAT"
+  ],
+  "https://www.gov.uk/vat-builders": [
+    "Charging and paying VAT"
+  ],
+  "https://www.gov.uk/vat-charities": [
+    "Charging and paying VAT"
+  ],
+  "https://www.gov.uk/child-benefit": [
+    "Child Benefit",
+    "Parenting and guardianship"
+  ],
+  "https://www.gov.uk/child-benefit-16-19": [
+    "Child Benefit"
+  ],
+  "https://www.gov.uk/child-benefit-payment-dates": [
+    "Child Benefit"
+  ],
+  "https://www.gov.uk/child-benefit-tax-calculator": [
+    "Child Benefit"
+  ],
+  "https://www.gov.uk/child-benefit-tax-charge": [
+    "Child Benefit"
+  ],
+  "https://www.gov.uk/child-benefit-proof": [
+    "Child Benefit"
+  ],
+  "https://www.gov.uk/report-changes-child-benefit": [
+    "Child Benefit"
+  ],
+  "https://www.gov.uk/government/organisations/hm-revenue-customs/contact/child-benefit": [
+    "Child Benefit"
+  ],
+  "https://www.gov.uk/repay-child-benefit-overpayments": [
+    "Child Benefit"
+  ],
+  "https://www.gov.uk/child-benefit-move-to-uk": [
+    "Child Benefit"
+  ],
+  "https://www.gov.uk/child-benefit-child-lives-with-someone-else": [
+    "Child Benefit"
+  ],
+  "https://www.gov.uk/child-benefit-abroad": [
+    "Child Benefit"
+  ],
+  "https://www.gov.uk/find-hmrc-contacts/child-benefit-general-enquiries": [
+    "Child Benefit"
+  ],
+  "https://www.gov.uk/child-benefit-complaints": [
+    "Child Benefit"
+  ],
+  "https://www.gov.uk/how-to-have-your-benefits-paid": [
+    "Claiming benefits for the first time",
+    "Managing your benefits"
+  ],
+  "https://www.gov.uk/cost-living-help-local-council": [
+    "Claiming benefits for the first time",
+    "Dealing with debt and money issues",
+    "Support with housing and living costs"
+  ],
+  "https://www.gov.uk/apply-council-tax-reduction": [
+    "Claiming benefits for the first time",
+    "Support with housing and living costs"
+  ],
+  "https://www.gov.uk/universal-credit-advance-hardship-payment/first-payment": [
+    "Claiming benefits for the first time"
+  ],
+  "https://www.gov.uk/support-visit-benefit-claim": [
+    "Claiming benefits for the first time"
+  ],
+  "https://www.gov.uk/company-tax-returns": [
+    "Company Tax Returns"
+  ],
+  "https://www.gov.uk/file-your-company-accounts-and-tax-return": [
+    "Company Tax Returns"
+  ],
+  "https://www.gov.uk/file-your-company-annual-accounts": [
+    "Company Tax Returns"
+  ],
+  "https://www.gov.uk/guidance/verifying-your-identity-for-companies-house": [
+    "Company Tax Returns"
+  ],
+  "https://www.gov.uk/guidance/companies-house-personal-codes-for-identity-verification": [
+    "Company Tax Returns"
+  ],
+  "https://www.gov.uk/dormant-company": [
+    "Company Tax Returns"
+  ],
+  "https://www.gov.uk/find-contact-details-companies-house": [
+    "Company Tax Returns"
+  ],
+  "https://www.gov.uk/guidance/sign-in-to-your-hmrc-business-tax-account": [
+    "Construction Industry Scheme (CIS)",
+    "Corporation Tax"
+  ],
+  "https://www.gov.uk/what-is-the-construction-industry-scheme": [
+    "Construction Industry Scheme (CIS)"
+  ],
+  "https://www.gov.uk/use-construction-industry-scheme-online": [
+    "Construction Industry Scheme (CIS)"
+  ],
+  "https://www.gov.uk/corporation-tax": [
+    "Corporation Tax"
+  ],
+  "https://www.gov.uk/corporation-tax-rates": [
+    "Corporation Tax"
+  ],
+  "https://www.gov.uk/pay-corporation-tax": [
+    "Corporation Tax"
+  ],
+  "https://www.gov.uk/corporation-tax-accounting-period": [
+    "Corporation Tax"
+  ],
+  "https://www.gov.uk/get-refund-interest-corporation-tax": [
+    "Corporation Tax"
+  ],
+  "https://www.gov.uk/tell-hmrc-your-company-is-dormant-for-corporation-tax": [
+    "Corporation Tax"
+  ],
+  "https://www.gov.uk/find-hmrc-contacts/corporation-tax-general-enquiries": [
+    "Corporation Tax"
+  ],
+  "http://www.gov.uk/council-tax": [
+    "Council Tax"
+  ],
+  "http://www.gov.uk/council-tax-bands": [
+    "Council Tax"
+  ],
+  "http://www.gov.uk/challenge-council-tax-band": [
+    "Council Tax"
+  ],
+  "http://www.gov.uk/pay-council-tax": [
+    "Council Tax"
+  ],
+  "http://www.gov.uk/council-tax-arrears": [
+    "Council Tax"
+  ],
+  "http://www.gov.uk/council-tax-appeals": [
+    "Council Tax"
+  ],
+  "http://www.gov.uk/apply-council-tax-reduction": [
+    "Council Tax"
+  ],
+  "http://www.gov.uk/apply-for-council-tax-discount": [
+    "Council Tax"
+  ],
+  "http://www.gov.uk/contact-voa": [
+    "Council Tax"
+  ],
+  "https://www.gov.uk/log-in-register-hmrc-online-services": [
+    "Dealing with HMRC",
+    "Income Tax",
+    "Money and tax",
+    "Self Assessment"
+  ],
+  "https://www.gov.uk/contact-hmrc": [
+    "Dealing with HMRC"
+  ],
+  "https://www.gov.uk/tell-hmrc-change-address": [
+    "Dealing with HMRC"
+  ],
+  "https://www.gov.uk/tell-hmrc-changed-business-details": [
+    "Dealing with HMRC",
+    "Developing a business"
+  ],
+  "https://www.gov.uk/get-help-hmrc-extra-support": [
+    "Dealing with HMRC"
+  ],
+  "https://www.gov.uk/tax-help": [
+    "Dealing with HMRC"
+  ],
+  "https://www.gov.uk/report-tax-fraud": [
+    "Dealing with HMRC"
+  ],
+  "https://www.gov.uk/difficulties-paying-hmrc": [
+    "Dealing with HMRC",
+    "Dealing with debt and money issues",
+    "Income Tax",
+    "Self Assessment"
+  ],
+  "https://www.gov.uk/complain-about-hmrc": [
+    "Dealing with HMRC"
+  ],
+  "https://www.gov.uk/appoint-tax-agent": [
+    "Dealing with HMRC"
+  ],
+  "https://www.gov.uk/tax-appeals": [
+    "Dealing with HMRC",
+    "Self Assessment"
+  ],
+  "https://www.gov.uk/tax-tribunal": [
+    "Dealing with HMRC"
+  ],
+  "https://www.gov.uk/pay-off-debts": [
+    "Dealing with debt and money issues"
+  ],
+  "https://www.gov.uk/debt-advice": [
+    "Dealing with debt and money issues"
+  ],
+  "https://www.gov.uk/respond-to-court-claim-for-money": [
+    "Dealing with debt and money issues"
+  ],
+  "https://www.gov.uk/county-court-judgments-ccj-for-debt": [
+    "Dealing with debt and money issues"
+  ],
+  "https://www.gov.uk/your-rights-bailiffs": [
+    "Dealing with debt and money issues"
+  ],
+  "https://www.gov.uk/council-tax-arrears": [
+    "Dealing with debt and money issues"
+  ],
+  "https://www.gov.uk/repay-manage-benefit-owed": [
+    "Dealing with debt and money issues",
+    "Managing your benefits"
+  ],
+  "https://www.gov.uk/government/organisations/single-financial-guidance-body": [
+    "Dealing with debt and money issues"
+  ],
+  "https://www.gov.uk/find-hmrc-contacts/payment-problems-enquiries": [
+    "Dealing with debt and money issues"
+  ],
+  "https://www.gov.uk/growing-your-business": [
+    "Developing a business"
+  ],
+  "https://www.gov.uk/contracts-finder": [
+    "Developing a business"
+  ],
+  "https://www.gov.uk/business-finance-support": [
+    "Developing a business"
+  ],
+  "https://www.gov.uk/guidance/find-government-grants": [
+    "Developing a business"
+  ],
+  "https://www.gov.uk/apply-start-up-loan": [
+    "Developing a business",
+    "Setting up a business or charity"
+  ],
+  "https://www.gov.uk/capital-allowances": [
+    "Developing a business"
+  ],
+  "https://www.gov.uk/find-licences": [
+    "Developing a business",
+    "Managing business premises",
+    "Setting up a business or charity"
+  ],
+  "https://www.gov.uk/file-changes-to-a-company-with-companies-house": [
+    "Developing a business"
+  ],
+  "https://www.gov.uk/become-apprentice": [
+    "Doing an apprenticeship or internship",
+    "Educating your child",
+    "Leaving care as a young adult"
+  ],
+  "https://www.gov.uk/apply-apprenticeship": [
+    "Doing an apprenticeship or internship",
+    "Looking for work",
+    "Studying and training"
+  ],
+  "https://www.gov.uk/employing-an-apprentice": [
+    "Doing an apprenticeship or internship",
+    "Employing people"
+  ],
+  "https://www.gov.uk/find-teacher-training-courses": [
+    "Doing an apprenticeship or internship",
+    "Doing a postgraduate course"
+  ],
+  "https://www.gov.uk/national-minimum-wage": [
+    "Doing an apprenticeship or internship"
+  ],
+  "https://www.gov.uk/employment-rights-for-interns": [
+    "Doing an apprenticeship or internship"
+  ],
+  "https://www.gov.uk/careers-helpline-for-teenagers": [
+    "Doing an apprenticeship or internship",
+    "Going to college or sixth form",
+    "Going to school"
+  ],
+  "https://www.gov.uk/complain-further-education-apprenticeship": [
+    "Doing an apprenticeship or internship",
+    "Going to college or sixth form"
+  ],
+  "https://www.gov.uk/higher-education-courses-find-and-apply": [
+    "Doing a postgraduate course",
+    "Doing an undergraduate course"
+  ],
+  "https://www.gov.uk/check-university-award-degree": [
+    "Doing a postgraduate course",
+    "Doing an undergraduate course"
+  ],
+  "https://www.gov.uk/tell-employer-or-college-about-criminal-record": [
+    "Doing a postgraduate course",
+    "Doing an undergraduate course"
+  ],
+  "https://www.gov.uk/apply-for-teacher-training": [
+    "Doing a postgraduate course"
+  ],
+  "https://www.gov.uk/university-clearing-through-ucas": [
+    "Doing an undergraduate course"
+  ],
+  "https://www.gov.uk/extra-money-pay-university": [
+    "Doing an undergraduate course",
+    "Leaving care as a young adult",
+    "Extra funding for eligible students"
+  ],
+  "https://www.gov.uk/mature-student-university-funding": [
+    "Doing an undergraduate course"
+  ],
+  "https://www.gov.uk/check-your-driver-cpc-periodic-training-hours": [
+    "Driving a heavy goods vehicle (HGV), bus or other business vehicle"
+  ],
+  "https://www.gov.uk/driver-cpc-training": [
+    "Driving a heavy goods vehicle (HGV), bus or other business vehicle"
+  ],
+  "https://www.gov.uk/replace-driver-cpc-card": [
+    "Driving a heavy goods vehicle (HGV), bus or other business vehicle"
+  ],
+  "https://www.gov.uk/renew-lorry-bus-coach-licence": [
+    "Driving a heavy goods vehicle (HGV), bus or other business vehicle"
+  ],
+  "https://www.gov.uk/tachographs": [
+    "Driving a heavy goods vehicle (HGV), bus or other business vehicle",
+    "Running a transport business"
+  ],
+  "https://www.gov.uk/drivers-hours": [
+    "Driving a heavy goods vehicle (HGV), bus or other business vehicle"
+  ],
+  "https://www.gov.uk/apply-driver-digital-tachograph-card": [
+    "Driving a heavy goods vehicle (HGV), bus or other business vehicle"
+  ],
+  "https://www.gov.uk/drive-abroad": [
+    "Driving abroad",
+    "Driving and transport",
+    "Preparing to travel abroad",
+    "Travel abroad"
+  ],
+  "https://www.gov.uk/driving-abroad": [
+    "Driving abroad",
+    "Preparing to travel abroad"
+  ],
+  "https://www.gov.uk/taking-vehicles-out-of-uk": [
+    "Driving abroad",
+    "Preparing to travel abroad"
+  ],
+  "https://www.gov.uk/displaying-number-plates": [
+    "Driving abroad"
+  ],
+  "https://www.gov.uk/view-driving-licence": [
+    "Driving abroad",
+    "Driving licences",
+    "Driving and transport"
+  ],
+  "https://www.gov.uk/apply-first-provisional-driving-licence": [
+    "Driving licences",
+    "Learning to drive"
+  ],
+  "https://www.gov.uk/apply-for-your-full-driving-licence": [
+    "Driving licences",
+    "Learning to drive"
+  ],
+  "https://www.gov.uk/track-your-driving-licence-application": [
+    "Driving licences",
+    "Learning to drive"
+  ],
+  "https://www.gov.uk/renew-driving-licence": [
+    "Driving licences"
+  ],
+  "https://www.gov.uk/renew-driving-licence-at-70": [
+    "Driving licences"
+  ],
+  "https://www.gov.uk/replace-a-driving-licence": [
+    "Driving licences"
+  ],
+  "https://www.gov.uk/change-name-driving-licence": [
+    "Driving licences"
+  ],
+  "https://www.gov.uk/exchange-nongb-driving-licence": [
+    "Driving licences"
+  ],
+  "https://www.gov.uk/check-driving-information": [
+    "Driving licences"
+  ],
+  "https://www.gov.uk/driving-nongb-licence": [
+    "Driving licences"
+  ],
+  "https://www.gov.uk/driving-licence-categories": [
+    "Driving licences"
+  ],
+  "https://www.gov.uk/vehicles-can-drive": [
+    "Driving licences"
+  ],
+  "https://www.gov.uk/adding-higher-categories-to-your-driving-licence": [
+    "Driving licences"
+  ],
+  "https://www.gov.uk/automatic-driving-licence-to-manual": [
+    "Driving licences"
+  ],
+  "https://www.gov.uk/electric-bike-rules": [
+    "Driving licences"
+  ],
+  "https://www.gov.uk/contact-the-dvla": [
+    "Driving licences",
+    "Driving with a medical condition or disability",
+    "Vehicle tax"
+  ],
+  "https://www.gov.uk/health-conditions-and-driving": [
+    "Driving with a medical condition or disability",
+    "Losing the right to drive"
+  ],
+  "https://www.gov.uk/report-untaxed-vehicle": [
+    "Driving on public roads"
+  ],
+  "https://www.gov.uk/report-no-mot": [
+    "Driving on public roads"
+  ],
+  "https://www.gov.uk/legal-obligations-drivers-riders": [
+    "Driving on public roads"
+  ],
+  "https://www.gov.uk/vehicle-insurance": [
+    "Driving on public roads",
+    "MOT and insurance"
+  ],
+  "https://www.gov.uk/guidance/the-highway-code": [
+    "Driving on public roads"
+  ],
+  "https://www.gov.uk/pay-dartford-crossing-charge": [
+    "Driving on public roads"
+  ],
+  "https://www.gov.uk/clean-air-zones": [
+    "Driving on public roads"
+  ],
+  "https://www.gov.uk/child-car-seats-the-rules": [
+    "Driving on public roads"
+  ],
+  "https://www.gov.uk/speeding-penalties": [
+    "Driving on public roads"
+  ],
+  "https://www.gov.uk/penalty-points-endorsements": [
+    "Driving on public roads"
+  ],
+  "https://www.gov.uk/drink-drive-limit": [
+    "Driving on public roads"
+  ],
+  "https://www.gov.uk/compensation-after-accident-or-injury": [
+    "Driving on public roads"
+  ],
+  "https://www.gov.uk/stopped-by-police-while-driving-your-rights": [
+    "Driving on public roads"
+  ],
+  "https://www.gov.uk/learn-to-drive-a-car": [
+    "Driving and transport",
+    "Learning to drive"
+  ],
+  "https://www.gov.uk/mot-lorry-bus-trailer": [
+    "Driving and transport",
+    "MOT and insurance",
+    "Running a transport business"
+  ],
+  "https://www.gov.uk/tell-dvla-changed-address": [
+    "Driving and transport",
+    "Vehicle registration and number plates"
+  ],
+  "https://www.gov.uk/get-personalised-private-number-plate": [
+    "Driving and transport",
+    "Vehicle registration and number plates"
+  ],
+  "https://www.gov.uk/transport-goods-from-uk-by-road": [
+    "Driving and transport",
+    "Running a transport business"
+  ],
+  "https://www.gov.uk/vehicle-tax": [
+    "Driving and transport",
+    "Vehicle tax"
+  ],
+  "https://www.gov.uk/school-term-holiday-dates": [
+    "Educating your child",
+    "Going to school",
+    "Studying and training"
+  ],
+  "https://www.gov.uk/schools-admissions": [
+    "Educating your child",
+    "Going to school"
+  ],
+  "https://www.gov.uk/school-performance-tables": [
+    "Educating your child",
+    "Going to school"
+  ],
+  "https://www.gov.uk/apply-for-primary-school-place": [
+    "Educating your child"
+  ],
+  "https://www.gov.uk/apply-for-secondary-school-place": [
+    "Educating your child"
+  ],
+  "https://www.gov.uk/home-education": [
+    "Educating your child"
+  ],
+  "https://www.gov.uk/apply-free-school-meals": [
+    "Educating your child",
+    "Going to school"
+  ],
+  "https://www.gov.uk/school-uniform": [
+    "Educating your child",
+    "Going to school"
+  ],
+  "https://www.gov.uk/free-school-transport": [
+    "Educating your child",
+    "Going to school"
+  ],
+  "https://www.gov.uk/school-attendance-absence": [
+    "Educating your child",
+    "Going to school"
+  ],
+  "https://www.gov.uk/national-curriculum": [
+    "Educating your child",
+    "Going to school"
+  ],
+  "https://www.gov.uk/complain-about-school": [
+    "Educating your child",
+    "Going to school"
+  ],
+  "https://www.gov.uk/parental-leave": [
+    "Educating your child",
+    "Taking leave from work"
+  ],
+  "https://www.gov.uk/courses-qualifications": [
+    "Educating your child",
+    "Going to college or sixth form"
+  ],
+  "https://www.gov.uk/electric-vehicle-chargepoint-grant-household": [
+    "Electric cars"
+  ],
+  "https://www.gov.uk/electric-vehicle-chargepoint-installers": [
+    "Electric cars"
+  ],
+  "https://www.gov.uk/paye-for-employers": [
+    "Employing people"
+  ],
+  "https://www.gov.uk/pay-paye-tax": [
+    "Employing people"
+  ],
+  "https://www.gov.uk/workplace-pensions-employers": [
+    "Employing people"
+  ],
+  "https://www.gov.uk/employers-sick-pay": [
+    "Employing people"
+  ],
+  "https://www.gov.uk/maternity-paternity-calculator": [
+    "Employing people"
+  ],
+  "https://www.gov.uk/check-job-applicant-right-to-work": [
+    "Employing people"
+  ],
+  "https://www.gov.uk/find-out-dbs-check": [
+    "Employing people"
+  ],
+  "https://www.gov.uk/employer-reporting-expenses-benefits": [
+    "Employing people"
+  ],
+  "https://www.gov.uk/expenses-and-benefits-a-to-z": [
+    "Employing people"
+  ],
+  "http://www.gov.uk/running-payroll": [
+    "Employing people"
+  ],
+  "http://www.gov.uk/guidance/work-out-an-employees-income-tax": [
+    "Employing people"
+  ],
+  "https://www.gov.uk/find-hmrc-contacts/employers-general-enquiries": [
+    "Employing people"
+  ],
+  "https://www.gov.uk/working-when-pregnant-your-rights": [
+    "Expecting a baby"
+  ],
+  "https://www.gov.uk/maternity-pay-leave": [
+    "Expecting a baby",
+    "Taking leave from work"
+  ],
+  "https://www.gov.uk/maternity-allowance": [
+    "Expecting a baby",
+    "Taking leave from work",
+    "When a baby or child dies"
+  ],
+  "https://www.gov.uk/employee-rights-when-on-leave": [
+    "Expecting a baby",
+    "Expecting a baby with a surrogate"
+  ],
+  "https://www.gov.uk/sure-start-maternity-grant": [
+    "Expecting a baby"
+  ],
+  "https://www.gov.uk/healthy-start": [
+    "Expecting a baby"
+  ],
+  "https://www.gov.uk/register-birth": [
+    "Expecting a baby",
+    "Expecting a baby with a surrogate"
+  ],
+  "https://www.gov.uk/order-copy-birth-death-marriage-certificate": [
+    "Expecting a baby",
+    "Expecting a baby with a surrogate"
+  ],
+  "https://www.gov.uk/legal-rights-when-using-surrogates-and-donors": [
+    "Expecting a baby with a surrogate"
+  ],
+  "https://www.gov.uk/legal-rights-for-egg-and-sperm-donors": [
+    "Expecting a baby with a surrogate"
+  ],
+  "https://www.gov.uk/universal-credit-advance-hardship-payment": [
+    "Financial support if you have a long-term condition or disabliity",
+    "Looking for work",
+    "Managing your benefits",
+    "Support if you're caring for someone",
+    "Support if you have a health condition or disability",
+    "Support with housing and living costs",
+    "Support if you're looking for work or in low paid work",
+    "Support when someone dies",
+    "Universal Credit"
+  ],
+  "https://www.gov.uk/blind-persons-allowance": [
+    "Financial support if you have a long-term condition or disabliity",
+    "Support if you have a health condition or disability"
+  ],
+  "https://www.gov.uk/benefits-end-of-life": [
+    "Financial support if you have a long-term condition or disabliity",
+    "Going into care as an adult",
+    "Managing your benefits",
+    "Support if you have a health condition or disability"
+  ],
+  "https://www.gov.uk/going-to-hospital-benefits": [
+    "Financial support if you have a long-term condition or disabliity",
+    "Going into care as an adult",
+    "Managing your benefits"
+  ],
+  "https://www.gov.uk/disability-premiums": [
+    "Financial support if you have a long-term condition or disabliity",
+    "Support if you have a health condition or disability"
+  ],
+  "https://www.gov.uk/apply-renew-passport": [
+    "Get a passport",
+    "Travel abroad"
+  ],
+  "https://www.gov.uk/apply-first-adult-passport": [
+    "Get a passport"
+  ],
+  "https://www.gov.uk/renew-adult-passport": [
+    "Get a passport",
+    "Lost or stolen passports",
+    "Travel abroad"
+  ],
+  "https://www.gov.uk/get-a-child-passport": [
+    "Get a passport",
+    "Travel abroad"
+  ],
+  "https://www.gov.uk/changing-passport-information": [
+    "Get a passport"
+  ],
+  "https://www.gov.uk/get-a-passport-urgently": [
+    "Get a passport"
+  ],
+  "https://www.gov.uk/track-passport-application": [
+    "Get a passport"
+  ],
+  "https://www.gov.uk/photos-for-passports": [
+    "Get a passport"
+  ],
+  "https://www.gov.uk/countersigning-passport-applications": [
+    "Get a passport"
+  ],
+  "https://www.gov.uk/passport-fees": [
+    "Get a passport"
+  ],
+  "https://www.gov.uk/how-the-post-office-check-and-send-service-works": [
+    "Get a passport"
+  ],
+  "https://www.gov.uk/find-regional-passport-office": [
+    "Get a passport"
+  ],
+  "https://www.gov.uk/passport-advice-line": [
+    "Get a passport"
+  ],
+  "https://www.gov.uk/overseas-passports": [
+    "Get a passport"
+  ],
+  "https://www.gov.uk/passport-application-while-visiting-uk": [
+    "Get a passport"
+  ],
+  "https://www.gov.uk/going-to-care-home-benefits": [
+    "Going into care as an adult",
+    "Managing your benefits"
+  ],
+  "https://www.gov.uk/find-a-regulated-qualification": [
+    "Going to college or sixth form"
+  ],
+  "https://www.gov.uk/further-education-courses": [
+    "Going to college or sixth form"
+  ],
+  "https://www.gov.uk/learner-support": [
+    "Going to college or sixth form"
+  ],
+  "https://www.gov.uk/1619-bursary-fund": [
+    "Going to college or sixth form",
+    "Leaving care as a young adult"
+  ],
+  "https://www.gov.uk/advanced-learner-loan": [
+    "Going to college or sixth form"
+  ],
+  "https://www.gov.uk/care-to-learn": [
+    "Going to college or sixth form",
+    "Support if you're studying"
+  ],
+  "https://www.gov.uk/grant-bursary-adult-learners": [
+    "Going to college or sixth form"
+  ],
+  "https://www.gov.uk/subsidised-college-transport-16-19": [
+    "Going to college or sixth form"
+  ],
+  "https://www.gov.uk/replacement-exam-certificate": [
+    "Going to college or sixth form"
+  ],
+  "https://www.gov.uk/music-dance-scheme": [
+    "Going to college or sixth form",
+    "Going to school"
+  ],
+  "https://www.gov.uk/dance-drama-awards": [
+    "Going to college or sixth form",
+    "Extra funding for eligible students"
+  ],
+  "https://www.gov.uk/types-of-school": [
+    "Going to school",
+    "Special educational needs"
+  ],
+  "https://www.gov.uk/guidance/understanding-ofsted-report-cards-and-grades": [
+    "Going to school"
+  ],
+  "https://www.gov.uk/dismissal": [
+    "Grievances, disciplinary action and being dismissed"
+  ],
+  "https://www.gov.uk/solve-workplace-dispute": [
+    "Grievances, disciplinary action and being dismissed"
+  ],
+  "https://www.gov.uk/raise-grievance-at-work": [
+    "Grievances, disciplinary action and being dismissed"
+  ],
+  "https://www.gov.uk/disciplinary-procedures-and-action-at-work": [
+    "Grievances, disciplinary action and being dismissed"
+  ],
+  "https://www.gov.uk/handing-in-your-notice": [
+    "Grievances, disciplinary action and being dismissed"
+  ],
+  "https://www.gov.uk/contact-pension-service": [
+    "Help with your pension"
+  ],
+  "https://www.gov.uk/future-pension-centre": [
+    "Help with your pension"
+  ],
+  "https://www.gov.uk/international-pension-centre": [
+    "Help with your pension"
+  ],
+  "https://www.gov.uk/check-how-to-import-export": [
+    "Importing and exporting"
+  ],
+  "https://www.gov.uk/check-duties-customs-exporting": [
+    "Importing and exporting"
+  ],
+  "https://www.gov.uk/goods-sent-from-abroad": [
+    "Importing and exporting"
+  ],
+  "https://www.gov.uk/eori": [
+    "Importing and exporting"
+  ],
+  "https://www.gov.uk/estimate-income-tax": [
+    "Income Tax"
+  ],
+  "https://www.gov.uk/estimate-income-tax-previous-year": [
+    "Income Tax"
+  ],
+  "https://www.gov.uk/check-income-tax-current-year": [
+    "Income Tax"
+  ],
+  "https://www.gov.uk/check-income-tax-last-year": [
+    "Income Tax"
+  ],
+  "https://www.gov.uk/income-tax-rates": [
+    "Income Tax",
+    "Paying tax and National Insurance"
+  ],
+  "https://www.gov.uk/tax-codes": [
+    "Income Tax",
+    "Paying tax and National Insurance"
+  ],
+  "https://www.gov.uk/paye-forms-p45-p60-p11d": [
+    "Income Tax",
+    "Paying tax and National Insurance"
+  ],
+  "https://www.gov.uk/simple-assessment": [
+    "Income Tax"
+  ],
+  "https://www.gov.uk/claim-tax-refund": [
+    "Income Tax",
+    "Self Assessment"
+  ],
+  "https://www.gov.uk/tax-overpayments-and-underpayments": [
+    "Income Tax"
+  ],
+  "https://www.gov.uk/tax-uk-income-live-abroad": [
+    "Income Tax",
+    "Managing savings and investments"
+  ],
+  "https://www.gov.uk/student-jobs-paying-tax": [
+    "Income Tax",
+    "Paying tax and National Insurance"
+  ],
+  "https://www.gov.uk/find-hmrc-contacts/income-tax-enquiries": [
+    "Income Tax"
+  ],
+  "https://www.gov.uk/inheritance-tax": [
+    "Inheritance Tax"
+  ],
+  "https://www.gov.uk/applying-for-probate": [
+    "Inheritance Tax"
+  ],
+  "https://www.gov.uk/valuing-estate-of-someone-who-died": [
+    "Inheritance Tax"
+  ],
+  "https://www.gov.uk/paying-inheritance-tax": [
+    "Inheritance Tax"
+  ],
+  "https://www.gov.uk/trusts-taxes/trusts-and-inheritance-tax": [
+    "Inheritance Tax"
+  ],
+  "https://www.gov.uk/tax-property-money-shares-you-inherit": [
+    "Inheritance Tax"
+  ],
+  "https://www.gov.uk/inheritance-tax-reduced-rate-calculator": [
+    "Inheritance Tax"
+  ],
+  "https://www.gov.uk/government/publications/rates-and-allowances-inheritance-tax-thresholds-and-interest-rates": [
+    "Inheritance Tax"
+  ],
+  "https://www.gov.uk/business-relief-inheritance-tax": [
+    "Inheritance Tax"
+  ],
+  "https://www.gov.uk/guidance/agricultural-relief-on-inheritance-tax": [
+    "Inheritance Tax"
+  ],
+  "https://www.gov.uk/search-for-trademark": [
+    "Intellectual property and copyright"
+  ],
+  "https://www.gov.uk/search-for-patent": [
+    "Intellectual property and copyright"
+  ],
+  "https://www.gov.uk/how-to-register-a-trade-mark": [
+    "Intellectual property and copyright"
+  ],
+  "https://www.gov.uk/register-a-design": [
+    "Intellectual property and copyright"
+  ],
+  "https://www.gov.uk/renew-patent-trademark-registered-design": [
+    "Intellectual property and copyright"
+  ],
+  "https://www.gov.uk/intellectual-property-an-overview": [
+    "Intellectual property and copyright"
+  ],
+  "https://www.gov.uk/copyright": [
+    "Intellectual property and copyright"
+  ],
+  "https://www.gov.uk/using-somebody-elses-intellectual-property": [
+    "Intellectual property and copyright"
+  ],
+  "https://www.gov.uk/driving-lessons-learning-to-drive": [
+    "Learning to drive"
+  ],
+  "https://www.gov.uk/book-theory-test": [
+    "Learning to drive"
+  ],
+  "https://www.gov.uk/book-driving-test": [
+    "Learning to drive"
+  ],
+  "https://www.gov.uk/change-driving-test": [
+    "Learning to drive"
+  ],
+  "https://www.gov.uk/theory-test": [
+    "Learning to drive"
+  ],
+  "https://www.gov.uk/driving-test": [
+    "Learning to drive"
+  ],
+  "https://www.gov.uk/ride-motorcycle-moped": [
+    "Learning to drive"
+  ],
+  "https://www.gov.uk/motorcycle-test": [
+    "Learning to drive"
+  ],
+  "https://www.gov.uk/motorcycle-theory-test": [
+    "Learning to drive"
+  ],
+  "https://www.gov.uk/pass-plus": [
+    "Learning to drive"
+  ],
+  "https://www.gov.uk/become-lorry-bus-driver": [
+    "Learning to drive"
+  ],
+  "https://www.gov.uk/training-hgv": [
+    "Learning to drive"
+  ],
+  "https://www.gov.uk/leaving-foster-or-local-authority-care": [
+    "Leaving care as a young adult"
+  ],
+  "https://www.gov.uk/work-health-programme": [
+    "Leaving care as a young adult",
+    "Returning to work",
+    "Support if you're looking for work or in low paid work"
+  ],
+  "https://www.gov.uk/housing-and-universal-credit": [
+    "Leaving care as a young adult",
+    "Support with housing and living costs"
+  ],
+  "https://www.gov.uk/find-local-council": [
+    "Leaving care as a young adult"
+  ],
+  "https://www.gov.uk/prove-right-to-work": [
+    "Looking for work"
+  ],
+  "https://www.gov.uk/career-skills-and-training": [
+    "Looking for work"
+  ],
+  "https://www.gov.uk/volunteering": [
+    "Looking for work"
+  ],
+  "https://www.gov.uk/request-copy-criminal-record": [
+    "Looking for work"
+  ],
+  "https://www.gov.uk/looking-for-work-if-disabled": [
+    "Looking for work",
+    "Returning to work"
+  ],
+  "https://www.gov.uk/contact-jobcentre-plus": [
+    "Looking for work"
+  ],
+  "https://www.gov.uk/driving-disqualifications": [
+    "Losing the right to drive"
+  ],
+  "https://www.gov.uk/drink-driving-penalties": [
+    "Losing the right to drive"
+  ],
+  "https://www.gov.uk/drink-drive-course": [
+    "Losing the right to drive"
+  ],
+  "https://www.gov.uk/drug-driving-law": [
+    "Losing the right to drive"
+  ],
+  "https://www.gov.uk/make-a-plea": [
+    "Losing the right to drive"
+  ],
+  "https://www.gov.uk/courts": [
+    "Losing the right to drive"
+  ],
+  "https://www.gov.uk/guidance/what-to-expect-coming-to-a-court-or-tribunal": [
+    "Losing the right to drive"
+  ],
+  "https://www.gov.uk/book-national-driver-offender-retraining-course": [
+    "Losing the right to drive"
+  ],
+  "https://www.gov.uk/report-a-lost-or-stolen-passport": [
+    "Lost or stolen passports"
+  ],
+  "https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport": [
+    "Lost or stolen passports"
+  ],
+  "https://www.gov.uk/world": [
+    "Lost or stolen passports",
+    "While you're abroad"
+  ],
+  "https://www.gov.uk/sign-in-to-manage-your-student-loan-balance": [
+    "Manage and repay student finance",
+    "Studying and training"
+  ],
+  "https://www.gov.uk/repay-student-loan-overpayment": [
+    "Manage and repay student finance"
+  ],
+  "https://www.gov.uk/student-finance-if-you-suspend-or-leave": [
+    "Manage and repay student finance"
+  ],
+  "https://www.gov.uk/student-finance-for-existing-students": [
+    "Manage and repay student finance"
+  ],
+  "http://www.gov.uk/contact-student-loans-company": [
+    "Manage and repay student finance"
+  ],
+  "https://www.gov.uk/sign-in-help-to-save": [
+    "Managing your benefits",
+    "Managing savings and investments"
+  ],
+  "https://www.gov.uk/proof-benefits-state-pension": [
+    "Managing your benefits"
+  ],
+  "https://www.gov.uk/benefit-cap": [
+    "Managing your benefits"
+  ],
+  "https://www.gov.uk/bills-benefits": [
+    "Managing your benefits"
+  ],
+  "https://www.gov.uk/appeal-benefit-decision": [
+    "Managing your benefits"
+  ],
+  "https://www.gov.uk/benefit-overpayments": [
+    "Managing your benefits"
+  ],
+  "https://www.gov.uk/benefit-fraud": [
+    "Managing your benefits"
+  ],
+  "https://www.gov.uk/claim-benefits-abroad": [
+    "Managing your benefits",
+    "Preparing to travel abroad",
+    "While you're abroad"
+  ],
+  "https://www.gov.uk/introduction-to-business-rates": [
+    "Managing business premises"
+  ],
+  "https://www.gov.uk/find-business-rates": [
+    "Managing business premises"
+  ],
+  "https://www.gov.uk/calculate-your-business-rates": [
+    "Managing business premises"
+  ],
+  "https://www.gov.uk/business-rates-valuation-account": [
+    "Managing business premises"
+  ],
+  "https://www.gov.uk/run-business-from-home": [
+    "Managing business premises"
+  ],
+  "https://www.gov.uk/find-energy-certificate": [
+    "Managing business premises"
+  ],
+  "https://www.gov.uk/get-new-energy-certificate": [
+    "Managing business premises"
+  ],
+  "https://www.gov.uk/send-rent-lease-details": [
+    "Managing business premises"
+  ],
+  "https://www.gov.uk/dispose-business-commercial-waste": [
+    "Managing business premises"
+  ],
+  "https://www.gov.uk/apply-tax-free-interest-on-savings": [
+    "Managing savings and investments"
+  ],
+  "https://www.gov.uk/savings-for-children": [
+    "Managing savings and investments",
+    "Savings accounts for children"
+  ],
+  "https://www.gov.uk/individual-savings-accounts": [
+    "Managing savings and investments"
+  ],
+  "https://www.gov.uk/junior-individual-savings-accounts": [
+    "Managing savings and investments",
+    "Savings accounts for children"
+  ],
+  "https://www.gov.uk/lifetime-isa": [
+    "Managing savings and investments"
+  ],
+  "https://www.gov.uk/tax-on-dividends": [
+    "Managing savings and investments"
+  ],
+  "https://www.gov.uk/tax-buy-shares": [
+    "Managing savings and investments"
+  ],
+  "https://www.gov.uk/log-in-file-self-assessment-tax-return": [
+    "Money and tax",
+    "Self Assessment"
+  ],
+  "https://www.gov.uk/getting-an-mot": [
+    "MOT and insurance"
+  ],
+  "https://www.gov.uk/mot-reminder": [
+    "MOT and insurance"
+  ],
+  "https://www.gov.uk/contact-dvsa": [
+    "MOT and insurance"
+  ],
+  "https://www.gov.uk/national-insurance": [
+    "National Insurance",
+    "National Insurance for businesses",
+    "Paying tax and National Insurance"
+  ],
+  "https://www.gov.uk/find-national-insurance-number": [
+    "National Insurance"
+  ],
+  "https://www.gov.uk/apply-national-insurance-number": [
+    "National Insurance"
+  ],
+  "https://www.gov.uk/national-insurance-rates-letters": [
+    "National Insurance"
+  ],
+  "https://www.gov.uk/voluntary-national-insurance-contributions": [
+    "National Insurance",
+    "Planning your retirement income"
+  ],
+  "https://www.gov.uk/pay-class-2-national-insurance": [
+    "National Insurance"
+  ],
+  "https://www.gov.uk/pay-voluntary-class-3-national-insurance": [
+    "National Insurance"
+  ],
+  "https://www.gov.uk/national-insurance-credits": [
+    "National Insurance"
+  ],
+  "https://www.gov.uk/claim-national-insurance-refund": [
+    "National Insurance"
+  ],
+  "https://www.gov.uk/national-insurance-if-you-go-abroad": [
+    "National Insurance"
+  ],
+  "https://www.gov.uk/guidance/get-your-national-insurance-number-by-post": [
+    "National Insurance"
+  ],
+  "https://www.gov.uk/find-hmrc-contacts/national-insurance-enquiries": [
+    "National Insurance"
+  ],
+  "https://www.gov.uk/get-a-divorce": [
+    "Parenting and guardianship",
+    "Separation and divorce if you have children"
+  ],
+  "https://www.gov.uk/child-trust-funds/find-a-child-trust-fund": [
+    "Parenting and guardianship"
+  ],
+  "https://www.gov.uk/parking-tickets": [
+    "Parking permits and fines"
+  ],
+  "https://www.gov.uk/pay-parking-fine": [
+    "Parking permits and fines"
+  ],
+  "https://www.gov.uk/appeal-parking-fine": [
+    "Parking permits and fines"
+  ],
+  "https://www.gov.uk/appeal-against-a-penalty-charge-notice": [
+    "Parking permits and fines"
+  ],
+  "https://www.gov.uk/parking-permit": [
+    "Parking permits and fines"
+  ],
+  "https://www.gov.uk/tax-on-your-private-pension": [
+    "Paying tax and National Insurance"
+  ],
+  "https://www.gov.uk/tax-company-benefits": [
+    "Paying tax and National Insurance"
+  ],
+  "https://www.gov.uk/check-state-pension": [
+    "Planning your retirement income",
+    "Retirement"
+  ],
+  "https://www.gov.uk/state-pension-age": [
+    "Planning your retirement income",
+    "Retirement"
+  ],
+  "https://www.gov.uk/state-pension-through-partner": [
+    "Planning your retirement income"
+  ],
+  "https://www.gov.uk/find-pension-contact-details": [
+    "Planning your retirement income"
+  ],
+  "https://www.gov.uk/deferring-state-pension": [
+    "Planning your retirement income"
+  ],
+  "https://www.gov.uk/tax-on-pension": [
+    "Planning your retirement income",
+    "Retiring and taking your pension"
+  ],
+  "https://www.gov.uk/state-pension-if-you-retire-abroad": [
+    "Planning your retirement income"
+  ],
+  "https://www.gov.uk/armed-forces-pension-calculator": [
+    "Planning your retirement income"
+  ],
+  "https://www.gov.uk/early-retirement-pension": [
+    "Planning your retirement income"
+  ],
+  "https://www.gov.uk/working-retirement-pension-age": [
+    "Planning your retirement income"
+  ],
+  "https://www.gov.uk/transferring-your-pension": [
+    "Planning your retirement income"
+  ],
+  "https://www.gov.uk/foreign-travel-advice": [
+    "Preparing to travel abroad",
+    "Travel abroad",
+    "While you're abroad"
+  ],
+  "https://www.gov.uk/hand-luggage-restrictions": [
+    "Preparing to travel abroad"
+  ],
+  "https://www.gov.uk/permission-take-child-abroad": [
+    "Preparing to travel abroad"
+  ],
+  "https://www.gov.uk/vehicle-insurance/driving-abroad": [
+    "Preparing to travel abroad"
+  ],
+  "https://www.gov.uk/bringing-cash-into-uk": [
+    "Preparing to travel abroad"
+  ],
+  "https://www.gov.uk/taking-your-pet-abroad": [
+    "Preparing to travel abroad"
+  ],
+  "https://www.gov.uk/marriages-civil-partnerships-abroad": [
+    "Preparing to travel abroad",
+    "While you're abroad"
+  ],
+  "https://www.gov.uk/get-document-legalised": [
+    "Preparing to travel abroad",
+    "While you're abroad"
+  ],
+  "https://www.gov.uk/get-state-pension": [
+    "Retirement",
+    "Retiring and taking your pension"
+  ],
+  "https://www.gov.uk/state-pension": [
+    "Retirement",
+    "Support if you're over state pension age",
+    "Types of pensions"
+  ],
+  "https://www.gov.uk/workplace-pensions/managing-your-pension": [
+    "Retiring and taking your pension"
+  ],
+  "https://www.gov.uk/tax-national-insurance-after-state-pension-age": [
+    "Retiring and taking your pension"
+  ],
+  "https://www.gov.uk/nominate-someone-to-collect-state-pension": [
+    "Retiring and taking your pension"
+  ],
+  "https://www.gov.uk/uk-border-control": [
+    "Returning to the UK"
+  ],
+  "https://www.gov.uk/bring-pet-to-great-britain": [
+    "Returning to the UK"
+  ],
+  "https://www.gov.uk/bringing-goods-into-uk-personal-use": [
+    "Returning to the UK"
+  ],
+  "https://www.gov.uk/bringing-food-into-great-britain": [
+    "Returning to the UK"
+  ],
+  "https://www.gov.uk/take-medicine-in-or-out-uk": [
+    "Returning to the UK"
+  ],
+  "https://www.gov.uk/bringing-plants-and-wood-into-great-britain": [
+    "Returning to the UK"
+  ],
+  "https://www.gov.uk/bring-your-pet-to-great-britain": [
+    "Returning to the UK",
+    "Travel abroad"
+  ],
+  "https://www.gov.uk/importing-vehicles-into-the-uk": [
+    "Returning to the UK"
+  ],
+  "https://www.gov.uk/access-to-work": [
+    "Returning to work",
+    "Support if you have a health condition or disability"
+  ],
+  "https://www.gov.uk/apply-vehicle-operator-licence": [
+    "Running a transport business"
+  ],
+  "https://www.gov.uk/manage-vehicle-operator-licence": [
+    "Running a transport business"
+  ],
+  "https://www.gov.uk/hgv-levy": [
+    "Running a transport business"
+  ],
+  "https://www.gov.uk/being-a-goods-vehicle-operator": [
+    "Running a transport business"
+  ],
+  "https://www.gov.uk/psv-operator-licences": [
+    "Running a transport business"
+  ],
+  "https://www.gov.uk/become-transport-manager": [
+    "Running a transport business"
+  ],
+  "https://www.gov.uk/taxi-vehicle-licence": [
+    "Running a transport business"
+  ],
+  "https://www.gov.uk/employing-people-to-drive": [
+    "Running a transport business"
+  ],
+  "https://www.gov.uk/apply-company-tachograph-card": [
+    "Running a transport business"
+  ],
+  "https://www.gov.uk/child-trust-funds": [
+    "Savings accounts for children"
+  ],
+  "https://www.gov.uk/find-hmrc-contacts/child-trust-fund-enquiries": [
+    "Savings accounts for children"
+  ],
+  "https://www.gov.uk/pay-self-assessment-tax-bill": [
+    "Self Assessment"
+  ],
+  "https://www.gov.uk/register-for-self-assessment": [
+    "Self Assessment"
+  ],
+  "https://www.gov.uk/self-assessment-tax-calculator": [
+    "Self Assessment"
+  ],
+  "https://www.gov.uk/understand-self-assessment-bill": [
+    "Self Assessment"
+  ],
+  "https://www.gov.uk/find-utr-number": [
+    "Self Assessment"
+  ],
+  "https://www.gov.uk/self-employed-records": [
+    "Self Assessment"
+  ],
+  "https://www.gov.uk/keeping-your-pay-tax-records": [
+    "Self Assessment"
+  ],
+  "https://www.gov.uk/simpler-income-tax-cash-basis": [
+    "Self Assessment"
+  ],
+  "https://www.gov.uk/sa302-tax-calculation": [
+    "Self Assessment"
+  ],
+  "https://www.gov.uk/selling-your-business-your-responsibilities": [
+    "Selling or closing a business"
+  ],
+  "https://www.gov.uk/stop-being-self-employed": [
+    "Selling or closing a business"
+  ],
+  "https://www.gov.uk/closing-a-limited-company": [
+    "Selling or closing a business"
+  ],
+  "https://www.gov.uk/put-your-company-into-administration": [
+    "Selling or closing a business"
+  ],
+  "https://www.gov.uk/restore-dissolved-company": [
+    "Selling or closing a business"
+  ],
+  "https://www.gov.uk/responsibilities-selling-vehicle": [
+    "Selling or scrapping a vehicle"
+  ],
+  "https://www.gov.uk/written-off-vehicle": [
+    "Selling or scrapping a vehicle"
+  ],
+  "https://www.gov.uk/scrapped-and-written-off-vehicles": [
+    "Selling or scrapping a vehicle"
+  ],
+  "https://www.gov.uk/make-a-sorn": [
+    "Selling or scrapping a vehicle",
+    "Vehicle tax"
+  ],
+  "https://www.gov.uk/legal-separation": [
+    "Separation and divorce if you have children"
+  ],
+  "https://www.gov.uk/divorce": [
+    "Separation and divorce if you have children"
+  ],
+  "https://www.gov.uk/separation-divorce": [
+    "Separation and divorce if you have children"
+  ],
+  "https://www.gov.uk/end-civil-partnership": [
+    "Separation and divorce if you have children"
+  ],
+  "https://www.gov.uk/looking-after-children-divorce": [
+    "Separation and divorce if you have children"
+  ],
+  "https://www.gov.uk/child-maintenance-service": [
+    "Separation and divorce if you have children"
+  ],
+  "https://www.gov.uk/calculate-child-maintenance": [
+    "Separation and divorce if you have children"
+  ],
+  "https://www.gov.uk/how-child-maintenance-is-worked-out": [
+    "Separation and divorce if you have children"
+  ],
+  "https://www.gov.uk/child-maintenance-if-one-parent-lives-abroad": [
+    "Separation and divorce if you have children"
+  ],
+  "https://www.gov.uk/contact-grandchild-parents-divorce-separate": [
+    "Separation and divorce if you have children"
+  ],
+  "https://www.gov.uk/set-up-business-partnership": [
+    "Setting up a business or charity"
+  ],
+  "https://www.gov.uk/set-up-a-social-enterprise": [
+    "Setting up a business or charity"
+  ],
+  "https://www.gov.uk/set-up-business": [
+    "Setting up a business or charity"
+  ],
+  "https://www.gov.uk/register-as-an-overseas-company": [
+    "Setting up a business or charity"
+  ],
+  "https://www.gov.uk/charity-recognition-hmrc": [
+    "Setting up a business or charity"
+  ],
+  "https://www.gov.uk/charities-and-tax": [
+    "Setting up a business or charity"
+  ],
+  "https://www.gov.uk/business-support-service": [
+    "Setting up a business or charity"
+  ],
+  "https://www.gov.uk/appeal-ehc-plan-decision": [
+    "Special educational needs"
+  ],
+  "https://www.gov.uk/disabled-students-allowances-assessment-centre": [
+    "Extra funding for eligible students"
+  ],
+  "https://www.gov.uk/childcare-grant": [
+    "Extra funding for eligible students",
+    "Support if you're studying"
+  ],
+  "https://www.gov.uk/parents-learning-allowance": [
+    "Extra funding for eligible students",
+    "Support if you're studying"
+  ],
+  "https://www.gov.uk/adult-dependants-grant": [
+    "Extra funding for eligible students"
+  ],
+  "https://www.gov.uk/travel-grants-students-england": [
+    "Extra funding for eligible students"
+  ],
+  "https://www.gov.uk/teacher-training-funding": [
+    "Extra funding for eligible students"
+  ],
+  "https://www.gov.uk/study-uk-student-visa": [
+    "Studying and training",
+    "Visas to study in the UK"
+  ],
+  "https://www.gov.uk/apply-short-term-study-visa": [
+    "Studying and training",
+    "Visas to study in the UK"
+  ],
+  "https://www.gov.uk/vaccine-damage-payment": [
+    "Support if you have a health condition or disability"
+  ],
+  "https://www.gov.uk/industrial-injuries-disablement-benefit": [
+    "Support if you have a health condition or disability"
+  ],
+  "https://www.gov.uk/constant-attendance-allowance": [
+    "Support if you have a health condition or disability"
+  ],
+  "https://www.gov.uk/get-a-ppc": [
+    "Support if you have a health condition or disability",
+    "Support with housing and living costs"
+  ],
+  "https://www.gov.uk/help-nhs-costs": [
+    "Support if you have a health condition or disability",
+    "Support with housing and living costs",
+    "Support if you're over state pension age"
+  ],
+  "https://www.gov.uk/apply-housing-benefit-from-council": [
+    "Support with housing and living costs"
+  ],
+  "https://www.gov.uk/support-for-mortgage-interest": [
+    "Support with housing and living costs"
+  ],
+  "https://www.gov.uk/working-tax-credit": [
+    "Support if you're looking for work or in low paid work"
+  ],
+  "https://www.gov.uk/new-state-pension": [
+    "Support if you're over state pension age",
+    "Types of pensions"
+  ],
+  "https://www.gov.uk/additional-state-pension": [
+    "Support if you're over state pension age",
+    "Types of pensions"
+  ],
+  "https://www.gov.uk/death-spouse-benefits-tax-pension": [
+    "Support when someone dies"
+  ],
+  "https://www.gov.uk/bereavement-support-payment": [
+    "Support when someone dies"
+  ],
+  "https://www.gov.uk/funeral-payments": [
+    "Support when someone dies"
+  ],
+  "https://www.gov.uk/child-funeral-costs": [
+    "Support when someone dies",
+    "When a baby or child dies"
+  ],
+  "https://www.gov.uk/widowed-parents-allowance": [
+    "Support when someone dies"
+  ],
+  "https://www.gov.uk/parental-bereavement-pay-leave": [
+    "Support when someone dies",
+    "Taking leave from work",
+    "When a baby or child dies"
+  ],
+  "https://www.gov.uk/war-widow-pension": [
+    "Support when someone dies",
+    "Types of pensions"
+  ],
+  "https://www.gov.uk/holiday-entitlement-rights": [
+    "Taking leave from work"
+  ],
+  "https://www.gov.uk/taking-sick-leave": [
+    "Taking leave from work",
+    "Taking time off sick"
+  ],
+  "https://www.gov.uk/jury-service": [
+    "Taking leave from work"
+  ],
+  "https://www.gov.uk/tax-credits-have-ended": [
+    "Tax Credits"
+  ],
+  "https://www.gov.uk/changes-affect-tax-credits": [
+    "Tax Credits"
+  ],
+  "https://www.gov.uk/how-tax-credits-affect-other-benefits": [
+    "Tax Credits"
+  ],
+  "https://www.gov.uk/tax-credits-overpayments": [
+    "Tax Credits"
+  ],
+  "https://www.gov.uk/find-hmrc-contacts/tax-credits-general-enquiries": [
+    "Tax Credits"
+  ],
+  "https://www.gov.uk/tax-credits-appeals-complaints": [
+    "Tax Credits"
+  ],
+  "https://www.gov.uk/find-hmrc-contacts/childcare-service-helpline": [
+    "Tax-Free Childcare"
+  ],
+  "https://www.gov.uk/pension-types": [
+    "Types of pensions"
+  ],
+  "https://www.gov.uk/over-80-pension": [
+    "Types of pensions"
+  ],
+  "https://www.gov.uk/vat-rates": [
+    "VAT"
+  ],
+  "https://www.gov.uk/tax-on-shopping": [
+    "VAT"
+  ],
+  "https://www.gov.uk/fuel-scale-charge": [
+    "VAT"
+  ],
+  "https://www.gov.uk/vat-building-new-home": [
+    "VAT"
+  ],
+  "https://www.gov.uk/find-hmrc-contacts/vat-general-enquiries": [
+    "VAT"
+  ],
+  "https://www.gov.uk/buy-a-personalised-registration-number": [
+    "Vehicle registration and number plates"
+  ],
+  "https://www.gov.uk/vehicle-tax-rate-tables": [
+    "Vehicle tax"
+  ],
+  "https://www.gov.uk/vehicle-tax-direct-debit": [
+    "Vehicle tax"
+  ],
+  "https://www.gov.uk/vehicle-tax-refund": [
+    "Vehicle tax"
+  ],
+  "https://www.gov.uk/check-uk-visa": [
+    "Visas to study in the UK"
+  ],
+  "https://www.gov.uk/student-visa": [
+    "Visas to study in the UK"
+  ],
+  "https://www.gov.uk/standard-visitor/visit-to-study": [
+    "Visas to study in the UK"
+  ],
+  "https://www.gov.uk/visa-to-study-english": [
+    "Visas to study in the UK"
+  ],
+  "https://www.gov.uk/child-study-visa": [
+    "Visas to study in the UK"
+  ],
+  "https://www.gov.uk/student-sponsor-loses-licence": [
+    "Visas to study in the UK"
+  ],
+  "https://www.gov.uk/pay-tax-debit-credit-card": [
+    "Ways to pay tax"
+  ],
+  "https://www.gov.uk/pay-tax-direct-debit": [
+    "Ways to pay tax"
+  ],
+  "https://www.gov.uk/request-baby-loss-certificate": [
+    "When a baby or child dies"
+  ],
+  "https://www.gov.uk/register-stillbirth": [
+    "When a baby or child dies"
+  ],
+  "https://www.gov.uk/maternity-pay-leave/eligibility": [
+    "When a baby or child dies"
+  ],
+  "https://www.gov.uk/child-benefit-child-parent-dies": [
+    "When a baby or child dies"
+  ],
+  "https://www.gov.uk/register-birth-abroad": [
+    "While you're abroad"
+  ],
+  "https://www.gov.uk/victim-crime-abroad": [
+    "While you're abroad"
+  ],
+  "https://www.gov.uk/register-a-death": [
+    "While you're abroad"
+  ]
+}
