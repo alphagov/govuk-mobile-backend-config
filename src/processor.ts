@@ -36,6 +36,11 @@ export class Processor {
     const op = new BuildOperation(buildOpts, fileHandler, this.transformer);
     await op.run();
   }
+
+  createMapping() {
+    const {createUrlToTopicMapping} = require('./url-to-topic-mapper');
+    createUrlToTopicMapping();
+  }
 }
 
 abstract class Operation<Params> {

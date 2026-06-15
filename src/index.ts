@@ -24,6 +24,10 @@ async function build(environment: string, opts: GenerateOpts) {
   await processor.build(inputDirectory, outputDirectory, environment);
 }
 
+function createMapping() {
+  processor.createMapping();
+}
+
 program
   .name('govuk-mobile-backend-config')
   .description(
@@ -62,6 +66,11 @@ program
     './config.out'
   )
   .action(build);
+
+program
+  .command('create-mapping')
+  .description('Update the URL to topics mapping document')
+  .action(createMapping);
 
 interface GenerateOpts {
   inputDirectory: string;
