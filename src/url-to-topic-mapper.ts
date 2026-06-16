@@ -51,26 +51,6 @@ function createUrlToTopicMapping() {
 
   const outputPath = path.join(topicsDir, outputFilename);
   fs.writeFileSync(outputPath, JSON.stringify(mapping, null, 2), 'utf-8');
-
-  exec(`git diff ${outputPath}`, (err: any, stdout: string, stderr: string) => {
-    if (err) {
-      console.error(`Error executing command: ${err}`);
-      return;
-    }
-
-    if (stderr) {
-      console.error(`Error output: ${stderr}`);
-      return;
-    }
-
-    if (stdout) {
-      console.log(
-        'URL to Topic mapping file has been updated. Remember to commit, push and merge these changes!'
-      );
-    } else {
-      console.log('URL to Topic mapping file is up to date. No changes detected.');
-    }
-  });
 }
 
 module.exports = {

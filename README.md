@@ -25,7 +25,7 @@ npm start build -- "[options]" "<environment>"
 # to generate an output tree using the 'dummydata' directory
 npm start build -- production --input-directory ./dummydata
 
-# update the URL to topics mapping document
+# to manually update the URL to topics mapping file
 npm start create-mapping
 ```
 
