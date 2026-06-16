@@ -1,0 +1,47 @@
+name: Update URL to topics mapping
+
+on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'static/topics/*'
+      - '!static/topics/list'
+      - '!static/topics/url-to-topic-mapping'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-url-to-topic-mapping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # pin to 4.2.2
+        with:
+          ref: ${{ github.head_ref }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@39370e3970a6d050c480ffad4ff0ed4d3fdee5af # pin to 4.1.0
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Update URL to topics mapping
+        run: npm run start
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add static/topics/url-to-topic-mapping
+
+          if ! git diff --cached --quiet; then
+            echo "Changes detected, pushing to main branch..."
+            git commit -m "Update URL to topics mapping" || echo "No changes to commit"
+            git push origin HEAD:${{ github.head_ref }}
+          else
+            echo "No changes detected, skipping push."
+          fi
