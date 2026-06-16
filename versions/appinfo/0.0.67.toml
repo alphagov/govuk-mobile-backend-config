@@ -1,5 +1,5 @@
 [metadata]
-configVersion = "0.0.66"
+configVersion = "0.0.67"
 
 [environments.production.ios]
 chatPollIntervalSeconds = 1
@@ -126,4 +126,7 @@ chatBanner_v2 = {
         title = "Ask a question"
         url = "govuk://gov.uk/chat"
     }
+}
+dvlaUrls = {
+    addVehicle = "https://driver-and-vehicles-account.service.gov.uk/add_vehicle"
 }
