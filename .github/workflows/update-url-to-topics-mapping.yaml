@@ -24,13 +24,13 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
-        uses: actions/setup-node@39370e3970a6d050c480ffad4ff0ed4d3fdee5af # pin to 4.1.0
+        uses: actions/setup-node@48b55a011bda9f5d6aeb4c2d9c7362e8dae4041e # pin to 6.4.0
 
       - name: Install dependencies
         run: npm ci
 
       - name: Update URL to topics mapping
-        run: npm run start
+        run: npm start create-mapping
 
       - name: Commit and push changes
         run: |
