@@ -1,5 +1,5 @@
 [metadata]
-configVersion = "0.0.68"
+configVersion = "0.0.69"
 
 [environments.production.ios]
 chatPollIntervalSeconds = 1
@@ -91,6 +91,12 @@ chatBanner_v2 = {
 dvlaUrls = {
     addVehicle = "https://driver-and-vehicles-account.service.gov.uk/add_vehicle"
     renewLicence = "https://www.gov.uk/renew-driving-licence"
+    soldVehicle = "https://www.gov.uk/sold-bought-vehicle"
+    sornRules = "https://www.gov.uk/sorn-statutory-off-road-notification"
+    makeSorn = "https://www.gov.uk/make-a-sorn"
+    getLogbook = "https://www.gov.uk/vehicle-log-book"
+    changeLogbookAddress = "https://www.gov.uk/change-address-v5c"
+    cancelTax = "https://www.gov.uk/vehicle-tax-refund"
 }
 
 [environments.default.ios]
@@ -131,4 +137,10 @@ chatBanner_v2 = {
 dvlaUrls = {
     addVehicle = "https://driver-and-vehicles-account.service.gov.uk/add_vehicle"
     renewLicence = "https://www.gov.uk/renew-driving-licence"
+    soldVehicle = "https://www.gov.uk/sold-bought-vehicle"
+    sornRules = "https://www.gov.uk/sorn-statutory-off-road-notification"
+    makeSorn = "https://www.gov.uk/make-a-sorn"
+    getLogbook = "https://www.gov.uk/vehicle-log-book"
+    changeLogbookAddress = "https://www.gov.uk/change-address-v5c"
+    cancelTax = "https://www.gov.uk/vehicle-tax-refund"
 }
