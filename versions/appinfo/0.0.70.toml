@@ -1,5 +1,5 @@
 [metadata]
-configVersion = "0.0.69"
+configVersion = "0.0.70"
 
 [environments.production.ios]
 chatPollIntervalSeconds = 1
@@ -143,4 +143,7 @@ dvlaUrls = {
     getLogbook = "https://www.gov.uk/vehicle-log-book"
     changeLogbookAddress = "https://www.gov.uk/change-address-v5c"
     cancelTax = "https://www.gov.uk/vehicle-tax-refund"
+    changeLicenceAddress = "https://www.gov.uk/change-address-driving-licence"
+    changeNameGenderLicence = "https://www.gov.uk/change-name-driving-licence"
+    replaceLicence = "https://www.gov.uk/replace-a-driving-licence"
 }
