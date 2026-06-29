@@ -1,5 +1,5 @@
 [metadata]
-configVersion = "0.0.71"
+configVersion = "0.0.72"
 
 [environments.production.ios]
 chatPollIntervalSeconds = 1
@@ -100,6 +100,8 @@ dvlaUrls = {
     changeLicenceAddress = "https://www.gov.uk/change-address-driving-licence"
     changeNameGenderLicence = "https://www.gov.uk/change-name-driving-licence"
     replaceLicence = "https://www.gov.uk/replace-a-driving-licence"
+    taxVehicle = "https://www.gov.uk/vehicle-tax"
+    manageTaxPayment = "https://www.gov.uk/vehicle-tax-direct-debit/renewing"
 }
 
 [environments.default.ios]
@@ -149,4 +151,6 @@ dvlaUrls = {
     changeLicenceAddress = "https://www.gov.uk/change-address-driving-licence"
     changeNameGenderLicence = "https://www.gov.uk/change-name-driving-licence"
     replaceLicence = "https://www.gov.uk/replace-a-driving-licence"
+    taxVehicle = "https://www.gov.uk/vehicle-tax"
+    manageTaxPayment = "https://www.gov.uk/vehicle-tax-direct-debit/renewing"
 }
