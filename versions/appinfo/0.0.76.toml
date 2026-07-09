@@ -1,5 +1,5 @@
 [metadata]
-configVersion = "0.0.75"
+configVersion = "0.0.76"
 
 [environments.production.ios]
 chatPollIntervalSeconds = 1
@@ -106,6 +106,7 @@ dvlaUrls = {
     checkMot = "https://www.check-mot.service.gov.uk/results?registration=[NUMBER PLATE]&checkRecalls=true"
     driverDetails = "https://driver-and-vehicles-account.service.gov.uk/driver_details"
     account = "https://driver-and-vehicles-account.service.gov.uk"
+    drivingRecord = "https://driver-and-vehicles-account.service.gov.uk/driver_details?locale=en#Entitlements"
 }
 
 [environments.default.ios]
@@ -161,4 +162,5 @@ dvlaUrls = {
     checkMot = "https://www.check-mot.service.gov.uk/results?registration=[NUMBER PLATE]&checkRecalls=true"
     driverDetails = "https://driver-and-vehicles-account.service.gov.uk/driver_details"
     account = "https://driver-and-vehicles-account.service.gov.uk"
+    drivingRecord = "https://driver-and-vehicles-account.service.gov.uk/driver_details?locale=en#Entitlements"
 }
