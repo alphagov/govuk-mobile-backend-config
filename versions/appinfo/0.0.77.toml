@@ -108,6 +108,19 @@ dvlaUrls = {
     account = "https://driver-and-vehicles-account.service.gov.uk"
     drivingRecord = "https://driver-and-vehicles-account.service.gov.uk/driver_details?locale=en#Entitlements"
 }
+promoBanners = [
+    {
+        id = "govuk_promo_banner_07_2026"
+        title = "Going abroad?"
+        body = "Check the advice for your destination before you go"
+        link = {
+            title = "Check travel advice"
+            url = "govuk://gov.uk/web?url=https://www.gov.uk/foreign-travel-advice"
+        }
+        image = "going_abroad"
+        type = "external"
+    }
+]
 
 [environments.default.ios]
 platform = "iOS"
@@ -164,3 +177,16 @@ dvlaUrls = {
     account = "https://driver-and-vehicles-account.service.gov.uk"
     drivingRecord = "https://driver-and-vehicles-account.service.gov.uk/driver_details?locale=en#Entitlements"
 }
+promoBanners = [
+    {
+        id = "govuk_promo_banner_07_2026"
+        title = "Going abroad?"
+        body = "Check the advice for your destination before you go"
+        link = {
+            title = "Check travel advice"
+            url = "govuk://gov.uk/web?url=https://www.gov.uk/foreign-travel-advice"
+        }
+        image = "going_abroad"
+        type = "external"
+    }
+]
