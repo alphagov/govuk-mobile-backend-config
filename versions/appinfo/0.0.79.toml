@@ -79,15 +79,6 @@ termsAndConditions = {
     url = "https://www.gov.uk/guidance/govuk-app-terms-and-conditions",
     contentItemApiUrl = "https://www.gov.uk/api/content/guidance/govuk-app-terms-and-conditions"
 }
-chatBanner_v2 = {
-    id = "govuk_chat_banner_01_2026"
-    title = "Introducing GOV.UK Chat"
-    body = "An experimental AI tool for finding quick answers"
-    link = {
-        title = "Ask a question"
-        url = "govuk://gov.uk/chat"
-    }
-}
 dvlaUrls = {
     addVehicle = "https://driver-and-vehicles-account.service.gov.uk/add_vehicle"
     renewLicence = "https://www.gov.uk/renew-driving-licence"
@@ -146,15 +137,6 @@ termsAndConditions = {
     lastUpdated = "2025-03-18T00:00:00Z",
     url = "https://www.gov.uk/guidance/govuk-app-terms-and-conditions",
     contentItemApiPath = "/api/content/guidance/govuk-app-terms-and-conditions"
-}
-chatBanner_v2 = {
-    id = "govuk_chat_banner_01_2026"
-    title = "Introducing GOV.UK Chat"
-    body = "An experimental AI tool for finding quick answers"
-    link = {
-        title = "Ask a question"
-        url = "govuk://gov.uk/chat"
-    }
 }
 dvlaUrls = {
     addVehicle = "https://driver-and-vehicles-account.service.gov.uk/add_vehicle"
