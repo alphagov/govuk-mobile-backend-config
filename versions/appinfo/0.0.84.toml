@@ -76,6 +76,11 @@ minimumVersion = "0.0.1"
 recommendedVersion = "0.0.1"
 searchApiUrl = "https://search.publishing.service.gov.uk/v0_1/search.json"
 refreshTokenExpirySeconds = 31532400
+chatExampleQuestions = [
+    "How do I renew my driving licence?",
+    "What support can I get as a carer for my partner?",
+    "I want to set up a business. What are the steps?"
+]
 chatPollIntervalSeconds = 3
 chatUrls = {
     termsAndConditions = "https://www.gov.uk/guidance/govuk-chat-terms-and-conditions"
@@ -135,6 +140,11 @@ minimumVersion = "0.0.1"
 recommendedVersion = "0.0.1"
 searchApiUrl = "https://search.publishing.service.gov.uk/v0_1/search.json"
 refreshTokenExpirySeconds = 31532400
+chatExampleQuestions = [
+    "How do I renew my driving licence?",
+    "What support can I get as a carer for my partner?",
+    "I want to set up a business. What are the steps?"
+]
 chatPollIntervalSeconds = 0.5
 chatUrls = {
     termsAndConditions = "https://www.gov.uk/guidance/govuk-chat-terms-and-conditions"
