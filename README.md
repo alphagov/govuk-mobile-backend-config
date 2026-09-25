@@ -41,6 +41,8 @@ Run the tests with `npm test` which invokes Jest. Check code coverage with `npm 
 * Copy then paste into the same location the current/latest appinfo toml file in `versions/appinfo` e.g. `0.0.21.toml`
 * Change the filename to be incremented by 1 ahead of the copied appinfo filename e.g. `0.0.22.toml`
 * Change the `version` property in the new appinfo toml file to align with its filename e.g. `0.0.22`
+* Commit the new file change before making any config changes.
+* Commit config changes like you would normally (this helps with reading config changes).
 
 ## How to deploy 'main' branch to Integration and Production
 Merging into `main` triggers `Deploy config to Integration` workflow so any changes will be published to Integration automatically.
