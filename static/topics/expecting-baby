@@ -79,6 +79,20 @@
             "popular": false
         },
         {
+            "url": "https://beststartinlife.gov.uk/",
+            "title": "Best Start in Life",
+            "description": "Advice and support  for your child’s development. ",
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
+            "url": "https://www.gov.uk/order-copy-birth-death-marriage-certificate",
+            "title": "Order a birth, death, marriage or civil partnership certificate",
+            "description": "Order an official birth, adoption, death, marriage or civil partnership certificate from the General Register Office (GRO) if you need a copy or want to research your family tree.",
+            "isStepByStep": false,
+            "popular": false
+        },
+        {
             "url": "https://www.gov.uk/sure-start-maternity-grant",
             "title": "Sure Start Maternity Grant",
             "description": "Sure Start Maternity Grant is a £500 payment to help with the costs of a new baby: what you'll get, eligibility and how to apply (claim form SF100). ",
@@ -105,13 +119,6 @@
             "description": "Find out how to register a birth - who can register, birth certificates",
             "isStepByStep": false,
             "popular": true
-        },
-        {
-            "url": "https://www.gov.uk/order-copy-birth-death-marriage-certificate",
-            "title": "Order a birth, death, marriage or civil partnership certificate",
-            "description": "Order an official birth, adoption, death, marriage or civil partnership certificate from the General Register Office (GRO) if you need a copy or want to research your family tree.",
-            "isStepByStep": false,
-            "popular": false
         },
         {
             "url": "https://www.gov.uk/parental-rights-responsibilities",

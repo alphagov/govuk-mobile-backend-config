@@ -237,6 +237,7 @@
   "https://www.gov.uk/free-childcare-if-working": [
     "Arranging childcare",
     "Being in work: your rights and pay",
+    "Parenting and guardianship",
     "Tax-Free Childcare"
   ],
   "https://www.gov.uk/help-with-childcare-costs": [
@@ -773,6 +774,7 @@
   "https://www.gov.uk/winter-fuel-payment": [
     "Benefits and payments for older people",
     "Support with housing and living costs",
+    "Support with housing and living costs",
     "Support if you're over state pension age"
   ],
   "https://www.gov.uk/cold-weather-payment": [
@@ -1062,8 +1064,7 @@
   ],
   "https://www.gov.uk/cost-living-help-local-council": [
     "Claiming benefits for the first time",
-    "Dealing with debt and money issues",
-    "Support with housing and living costs"
+    "Dealing with debt and money issues"
   ],
   "https://www.gov.uk/apply-council-tax-reduction": [
     "Claiming benefits for the first time",
@@ -1256,12 +1257,12 @@
   "https://www.gov.uk/become-apprentice": [
     "Doing an apprenticeship or internship",
     "Educating your child",
-    "Leaving care as a young adult",
-    "Studying and training"
+    "Leaving care as a young adult"
   ],
   "https://www.gov.uk/apply-apprenticeship": [
     "Doing an apprenticeship or internship",
-    "Looking for work"
+    "Looking for work",
+    "Studying and training"
   ],
   "https://www.gov.uk/employing-an-apprentice": [
     "Doing an apprenticeship or internship",
@@ -1500,6 +1501,10 @@
   "https://www.gov.uk/home-education": [
     "Educating your child"
   ],
+  "https://beststartinlife.gov.uk/": [
+    "Educating your child",
+    "Expecting a baby"
+  ],
   "https://www.gov.uk/apply-free-school-meals": [
     "Educating your child",
     "Going to school"
@@ -1590,6 +1595,10 @@
     "Expecting a baby",
     "Expecting a baby with a surrogate"
   ],
+  "https://www.gov.uk/order-copy-birth-death-marriage-certificate": [
+    "Expecting a baby",
+    "Expecting a baby with a surrogate"
+  ],
   "https://www.gov.uk/sure-start-maternity-grant": [
     "Expecting a baby"
   ],
@@ -1597,10 +1606,6 @@
     "Expecting a baby"
   ],
   "https://www.gov.uk/register-birth": [
-    "Expecting a baby",
-    "Expecting a baby with a surrogate"
-  ],
-  "https://www.gov.uk/order-copy-birth-death-marriage-certificate": [
     "Expecting a baby",
     "Expecting a baby with a surrogate"
   ],
@@ -1654,6 +1659,7 @@
   ],
   "https://www.gov.uk/get-a-child-passport": [
     "Get a passport",
+    "Parenting and guardianship",
     "Travel abroad"
   ],
   "https://www.gov.uk/changing-passport-information": [
@@ -1693,7 +1699,7 @@
     "Going into care as an adult",
     "Managing your benefits"
   ],
-  "https://nationalcareers.service.gov.uk/careers-advice": [
+  "https://www.gov.uk/advanced-learner-loan": [
     "Going to college or sixth form"
   ],
   "https://www.gov.uk/find-a-regulated-qualification": [
@@ -1977,7 +1983,8 @@
     "While you're abroad"
   ],
   "https://www.gov.uk/sign-in-to-manage-your-student-loan-balance": [
-    "Manage and repay student finance"
+    "Manage and repay student finance",
+    "Studying and training"
   ],
   "https://www.gov.uk/repay-student-loan-overpayment": [
     "Manage and repay student finance"
@@ -2123,12 +2130,6 @@
   "https://www.gov.uk/get-a-divorce": [
     "Parenting and guardianship",
     "Separation and divorce if you have children"
-  ],
-  "https://nationalcareers.service.gov.uk/exam-results/parent-guide": [
-    "Parenting and guardianship"
-  ],
-  "https://www.gov.uk/child-trust-funds/find-a-child-trust-fund": [
-    "Parenting and guardianship"
   ],
   "https://www.gov.uk/parking-tickets": [
     "Parking permits and fines"
@@ -2431,9 +2432,6 @@
   "https://www.gov.uk/apply-short-term-study-visa": [
     "Studying and training",
     "Visas to study in the UK"
-  ],
-  "https://www.ucas.com/applying/after-you-apply/clearing-and-results-day/results-day": [
-    "Studying and training"
   ],
   "https://www.gov.uk/vaccine-damage-payment": [
     "Support if you have a health condition or disability"

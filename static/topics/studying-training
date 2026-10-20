@@ -55,9 +55,9 @@
             "popular": false
         },
         {
-            "url": "https://www.ucas.com/applying/after-you-apply/clearing-and-results-day/results-day",
-            "title": "UCAS clearing and results day",
-            "description": "Results day is an important milestone. Understand what to expect, explore your options, and start building your plan today.",
+            "url": "https://www.gov.uk/sign-in-to-manage-your-student-loan-balance",
+            "title": "Manage your student loan balance",
+            "description": "Sign in to manage your student loan balance.",
             "isStepByStep": false,
             "popular": true
         },
@@ -69,9 +69,9 @@
             "popular": true
         },
         {
-            "url": "https://www.gov.uk/become-apprentice",
-            "title": "Become an apprentice",
-            "description": "Becoming an apprentice - what to expect, apprenticeship levels, pay and training, making an application, complaining about an apprenticeship.",
+            "url": "https://www.gov.uk/apply-apprenticeship",
+            "title": "Find an apprenticeship",
+            "description": "Register your profile, search vacancies and apply for an apprenticeship - you must be 16 or over",
             "isStepByStep": false,
             "popular": true
         },
