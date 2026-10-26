@@ -1,5 +1,5 @@
 [metadata]
-configVersion = "0.0.87"
+configVersion = "0.0.88"
 
 [environments.production.ios]
 chatPollIntervalSeconds = 1
@@ -14,7 +14,7 @@ releaseFlags = {
     profile_v2 = true
     dvla = true
     messages = true
-    quarterlySurvey = false
+    quarterlySurvey_v2 = false
     travelalerts = true
 }
 
@@ -30,7 +30,7 @@ releaseFlags = {
     profile_v2 = true
     dvla = true
     messages = true
-    quarterlySurvey = false
+    quarterlySurvey_v2 = false
     travelalerts = true
 }
 
@@ -48,7 +48,7 @@ releaseFlags = {
     profile_v2 = true
     dvla = true
     messages = true
-    quarterlySurvey = true
+    quarterlySurvey_v2 = true
     travelalerts = true
 }
 
@@ -65,7 +65,7 @@ releaseFlags = {
     profile_v2 = true
     dvla = true
     messages = true
-    quarterlySurvey = true
+    quarterlySurvey_v2 = true
     travelalerts = true
 }
 
