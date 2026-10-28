@@ -1,5 +1,5 @@
 [metadata]
-configVersion = "0.0.88"
+configVersion = "0.0.89"
 
 [environments.production.ios]
 chatPollIntervalSeconds = 1
@@ -124,6 +124,9 @@ dvlaUrls = {
     reportAbandonedVehicle = "https://www.gov.uk/report-abandoned-vehicle"
     reportUntaxedVehicle = "https://www.gov.uk/report-untaxed-vehicle"
     reportNoMot = "https://www.gov.uk/report-no-mot"
+    compareOldNewLicenceCategories = "https://www.gov.uk/old-driving-licence-categories"
+    vehicleWeightExplained = "https://www.gov.uk/vehicle-weights-explained"
+    addCategoriesToLicence = "https://www.gov.uk/adding-higher-categories-to-your-driving-licence"
 }
 promoBanners = []
 
@@ -182,5 +185,8 @@ dvlaUrls = {
     reportAbandonedVehicle = "https://www.gov.uk/report-abandoned-vehicle"
     reportUntaxedVehicle = "https://www.gov.uk/report-untaxed-vehicle"
     reportNoMot = "https://www.gov.uk/report-no-mot"
+    compareOldNewLicenceCategories = "https://www.gov.uk/old-driving-licence-categories"
+    vehicleWeightExplained = "https://www.gov.uk/vehicle-weights-explained"
+    addCategoriesToLicence = "https://www.gov.uk/adding-higher-categories-to-your-driving-licence"
 }
 promoBanners = []
