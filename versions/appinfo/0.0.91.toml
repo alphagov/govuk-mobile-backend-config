@@ -16,6 +16,7 @@ releaseFlags = {
     messages = true
     quarterlySurvey_v2 = true
     travelalerts = true
+    dwpBenefits = false
 }
 
 [environments.production.android]
@@ -32,6 +33,7 @@ releaseFlags = {
     messages = true
     quarterlySurvey_v2 = true
     travelalerts = true
+    dwpBenefits = false
 }
 
 [environments.integration.ios]
@@ -50,6 +52,7 @@ releaseFlags = {
     messages = true
     quarterlySurvey_v2 = true
     travelalerts = true
+    dwpBenefits = false
 }
 
 [environments.integration.android]
@@ -67,6 +70,7 @@ releaseFlags = {
     messages = true
     quarterlySurvey_v2 = true
     travelalerts = true
+    dwpBenefits = false
 }
 
 [environments.default.android]
