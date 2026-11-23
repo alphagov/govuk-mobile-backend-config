@@ -1,5 +1,5 @@
 [metadata]
-configVersion = "0.0.92"
+configVersion = "0.0.93"
 
 [environments.production.ios]
 chatPollIntervalSeconds = 1
@@ -132,6 +132,7 @@ dvlaUrls = {
     vehicleWeightExplained = "https://www.gov.uk/vehicle-weights-explained"
     addCategoriesToLicence = "https://www.gov.uk/adding-higher-categories-to-your-driving-licence"
     reapplyForLicenceHealthCondition = "https://www.gov.uk/reapply-driving-licence-health-condition"
+    endorsements = "https://driver-and-vehicles-account.service.gov.uk/driver_details?locale=en#Endorsements"
 }
 promoBanners = []
 
@@ -194,5 +195,6 @@ dvlaUrls = {
     vehicleWeightExplained = "https://www.gov.uk/vehicle-weights-explained"
     addCategoriesToLicence = "https://www.gov.uk/adding-higher-categories-to-your-driving-licence"
     reapplyForLicenceHealthCondition = "https://www.gov.uk/reapply-driving-licence-health-condition"
+    endorsements = "https://driver-and-vehicles-account.service.gov.uk/driver_details?locale=en#Endorsements"
 }
 promoBanners = []
